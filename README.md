@@ -19,6 +19,9 @@ REGION MAP:
 ![WineMapofPortugal](https://user-images.githubusercontent.com/14171474/234731441-6d4f7538-121a-4f90-848f-42fa3d7b3226.png)
 
 
+## "Graphs" branch
+* graphed the number of wines for each quality rating
+* did a groupby on the quality column and searched for vairables that had a noticable coorelation to quality
 
 
 CITATIONS: 
