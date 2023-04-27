@@ -3,7 +3,7 @@
 ## WHY:  Quality of Portugal wines? 
 
 ## QUESTIONS
-  * How do various properties affect the quality rating of Portugal wines? 
+  * How do various chemical properties affect the quality rating of Portugal wines? 
   * How to classify the Portugal Wines? 
 
 
