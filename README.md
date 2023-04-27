@@ -8,7 +8,7 @@
 
 
 ## DATA DESCRIPTION
--
+- The data used for wine region and wine color is "dummy" data.  This was gathered and randomly distributed throughout the original data to generate more depth to the project. 
 -
 -
 
