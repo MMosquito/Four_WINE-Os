@@ -1,2038 +1,2021 @@
 quality,region,color,id
-6,Lisboa,White,0
-6,Setubal,White,1
-7,Madeira,Red,2
-5,Alentejo,White,3
-6,Minho,Rose,4
-7,Beira Interior,Red,5
-6,Algarve,White,6
-5,Dao,Rose,7
-4,Tejo,Red,8
-6,Beira Interior,Red,9
-6,Beira Interior,White,10
-8,Douro Valley,Rose,11
-4,Madeira,Rose,12
-7,Dao,Rose,13
-6,Alentejo,White,14
-5,Madeira,Red,15
-6,Algarve,White,16
-5,Beira Interior,Rose,17
-6,Setubal,Red,18
-6,Lisboa,Rose,19
-6,Tejo,White,20
-6,Douro Valley,White,21
-6,Setubal,Red,22
-6,Algarve,White,23
-5,Alentejo,Rose,24
-6,Algarve,White,25
-7,Minho,White,26
-6,Dao,Rose,27
-6,Transmontano,White,28
-7,Algarve,White,29
-6,Tejo,Rose,30
-6,Beira Atlantico,Red,31
-6,Algarve,Rose,32
-8,Lisboa,White,33
-5,Beira Atlantico,Red,34
-7,Transmontano,White,35
-6,Alentejo,White,36
-7,Madeira,White,37
-8,Tejo,Rose,38
-5,Lisboa,White,39
-6,Madeira,White,40
-6,Transmontano,Rose,41
-6,Transmontano,Rose,42
-6,Terras De Cister,White,43
-7,Transmontano,Rose,44
-8,Douro Valley,Red,45
-6,Transmontano,White,46
-6,Setubal,Red,47
-6,Transmontano,Red,48
-6,Lisboa,Rose,49
-7,Douro Valley,Rose,50
-6,Madeira,Red,51
-6,Minho,Rose,52
-4,Minho,Rose,53
-6,Beira Atlantico,Rose,54
-7,Setubal,White,55
-6,Transmontano,Red,56
-5,Beira Interior,Red,57
-5,Tejo,Red,58
-5,Setubal,White,59
-7,Minho,White,60
-7,Alentejo,Red,61
-6,Minho,Rose,62
-6,Terras De Cister,White,63
-6,Transmontano,White,64
-6,Setubal,Rose,65
-5,Algarve,White,66
-6,Tejo,White,67
-8,Setubal,Red,68
-6,Minho,Rose,69
-6,Terras De Cister,Rose,70
-5,Alentejo,Rose,71
-5,Alentejo,Red,72
-5,Lisboa,Red,73
-6,Douro Valley,White,74
-6,Terras De Cister,White,75
-5,Lisboa,Red,76
+6,Tejo,White,0
+6,Tejo,Rose,1
+7,Douro Valley,Red,2
+5,Beira Interior,White,3
+6,Alentejo,Rose,4
+7,Douro Valley,Rose,5
+6,Tejo,Red,6
+5,Madeira,White,7
+4,Algarve,Rose,8
+6,Setubal,Red,9
+6,Madeira,Rose,10
+8,Dao,Rose,11
+4,Alentejo,Red,12
+7,Minho,White,13
+6,Douro Valley,White,14
+5,Tejo,White,15
+6,Madeira,Rose,16
+5,Algarve,Red,17
+6,Setubal,White,18
+6,Beira Interior,White,19
+6,Setubal,Red,20
+6,Douro Valley,Red,21
+6,Minho,White,22
+6,Dao,Rose,23
+5,Minho,Red,24
+6,Beira Interior,White,25
+7,Beira Interior,Rose,26
+6,Minho,Red,27
+6,Alentejo,Rose,28
+7,Dao,Rose,29
+6,Setubal,White,30
+6,Dao,White,31
+6,Algarve,White,32
+8,Douro Valley,Rose,33
+5,Minho,Rose,34
+7,Minho,Red,35
+6,Madeira,Rose,36
+7,Setubal,Rose,37
+8,Douro Valley,Red,38
+5,Terras De Cister,Red,39
+6,Lisboa,White,40
+6,Setubal,White,41
+6,Douro Valley,White,42
+6,Alentejo,Red,43
+7,Setubal,Red,44
+8,Transmontano,Red,45
+6,Algarve,Red,46
+6,Tejo,Rose,47
+6,Alentejo,White,48
+6,Madeira,Red,49
+7,Terras De Cister,Rose,50
+6,Beira Interior,White,51
+6,Madeira,Rose,52
+4,Beira Atlantico,Red,53
+6,Minho,Red,54
+7,Lisboa,Rose,55
+6,Beira Interior,Red,56
+5,Setubal,White,57
+5,Setubal,White,58
+5,Beira Interior,Red,59
+7,Setubal,Rose,60
+7,Tejo,Rose,61
+6,Madeira,Red,62
+6,Douro Valley,Rose,63
+6,Terras De Cister,Rose,64
+6,Dao,Rose,65
+5,Setubal,White,66
+6,Minho,Rose,67
+8,Minho,Rose,68
+6,Dao,White,69
+6,Lisboa,Rose,70
+5,Terras De Cister,White,71
+5,Lisboa,White,72
+5,Setubal,Rose,73
+6,Transmontano,White,74
+6,Transmontano,Rose,75
+5,Beira Interior,Rose,76
 5,Lisboa,Rose,77
-5,Tejo,White,78
-6,Lisboa,White,79
-7,Madeira,Rose,80
-5,Terras De Cister,Rose,81
-6,Alentejo,Red,82
-6,Madeira,White,83
-5,Madeira,White,84
-6,Beira Atlantico,Rose,85
-7,Lisboa,Red,86
-5,Setubal,Red,87
-5,Lisboa,Red,88
-5,Beira Interior,Rose,89
-5,Beira Atlantico,Rose,90
-5,Beira Interior,Rose,91
-7,Madeira,White,92
-7,Alentejo,White,93
-6,Madeira,White,94
-6,Terras De Cister,Rose,95
-5,Beira Atlantico,Rose,96
-6,Madeira,Rose,97
-6,Lisboa,Rose,98
-5,Madeira,Red,99
-6,Tejo,Red,100
-5,Terras De Cister,Red,101
-5,Tejo,Rose,102
+5,Setubal,Rose,78
+6,Beira Interior,Rose,79
+7,Beira Atlantico,White,80
+5,Dao,Red,81
+6,Madeira,White,82
+6,Transmontano,Rose,83
+5,Algarve,Red,84
+6,Algarve,Red,85
+7,Beira Atlantico,Rose,86
+5,Lisboa,White,87
+5,Minho,Rose,88
+5,Beira Atlantico,Red,89
+5,Setubal,Red,90
+5,Minho,White,91
+7,Terras De Cister,Rose,92
+7,Beira Interior,Rose,93
+6,Minho,Red,94
+6,Transmontano,Rose,95
+5,Terras De Cister,Rose,96
+6,Lisboa,Red,97
+6,Madeira,White,98
+5,Setubal,White,99
+6,Beira Atlantico,Rose,100
+5,Dao,White,101
+5,Madeira,Red,102
 7,Algarve,White,103
-6,Terras De Cister,Rose,104
-5,Beira Atlantico,Rose,105
-5,Lisboa,Red,106
-6,Transmontano,Red,107
-6,Madeira,Rose,108
-7,Alentejo,White,109
-6,Tejo,Rose,110
-6,Setubal,Red,111
-5,Setubal,White,112
-6,Douro Valley,Red,113
-6,Algarve,Red,114
-6,Minho,Rose,115
-4,Douro Valley,Red,116
-7,Transmontano,Rose,117
-6,Setubal,Red,118
-7,Lisboa,Red,119
-6,Dao,Rose,120
-9,Beira Atlantico,White,121
-6,Transmontano,White,122
-6,Transmontano,Rose,123
-6,Terras De Cister,Red,124
-7,Minho,White,125
-5,Algarve,Rose,126
-6,Algarve,White,127
-6,Algarve,Red,128
-7,Dao,White,129
+6,Beira Interior,White,104
+5,Alentejo,White,105
+5,Terras De Cister,Rose,106
+6,Setubal,Red,107
+6,Beira Interior,Rose,108
+7,Setubal,Red,109
+6,Transmontano,Red,110
+6,Setubal,White,111
+5,Beira Interior,White,112
+6,Alentejo,White,113
+6,Minho,Rose,114
+6,Lisboa,Red,115
+4,Minho,White,116
+7,Dao,Rose,117
+6,Alentejo,Rose,118
+7,Douro Valley,Red,119
+6,Douro Valley,Red,120
+9,Alentejo,Rose,121
+6,Dao,White,122
+6,Minho,Red,123
+6,Alentejo,White,124
+7,Alentejo,White,125
+5,Beira Atlantico,Red,126
+6,Beira Interior,Rose,127
+6,Minho,Rose,128
+7,Transmontano,White,129
 7,Tejo,Rose,130
-6,Douro Valley,Red,131
-7,Setubal,Red,132
-5,Terras De Cister,Red,133
-6,Douro Valley,Rose,134
-6,Algarve,Rose,135
-6,Alentejo,White,136
-6,Madeira,Red,137
-5,Transmontano,White,138
-6,Beira Atlantico,Rose,139
-7,Algarve,Red,140
-5,Lisboa,Rose,141
-5,Dao,White,142
-6,Tejo,Red,143
-5,Setubal,Rose,144
-6,Terras De Cister,Rose,145
-6,Madeira,Red,146
-6,Dao,Rose,147
-5,Tejo,Red,148
-5,Douro Valley,White,149
-6,Algarve,White,150
-6,Alentejo,Red,151
-7,Dao,Red,152
-6,Alentejo,White,153
-6,Transmontano,Red,154
-5,Douro Valley,White,155
-6,Algarve,White,156
-7,Dao,Rose,157
-5,Beira Atlantico,Rose,158
-5,Terras De Cister,Rose,159
-6,Tejo,Rose,160
-6,Transmontano,Rose,161
-8,Madeira,Red,162
-6,Minho,Red,163
-5,Douro Valley,Red,164
-6,Lisboa,Red,165
-8,Tejo,Red,166
-7,Dao,Red,167
-5,Tejo,Red,168
-6,Lisboa,Red,169
-6,Algarve,White,170
-6,Terras De Cister,Rose,171
-6,Beira Atlantico,White,172
-7,Douro Valley,White,173
-7,Beira Atlantico,Red,174
-6,Lisboa,Red,175
-7,Terras De Cister,White,176
-6,Dao,White,177
-7,Terras De Cister,Red,178
-7,Transmontano,Red,179
-5,Transmontano,Rose,180
-6,Tejo,White,181
-9,Madeira,White,182
-6,Dao,White,183
-6,Terras De Cister,White,184
-8,Terras De Cister,Red,185
-5,Dao,White,186
-7,Minho,Red,187
-6,Tejo,White,188
-5,Beira Atlantico,Rose,189
-5,Alentejo,White,190
-6,Alentejo,White,191
-5,Beira Interior,White,192
-6,Dao,White,193
-5,Madeira,White,194
-6,Transmontano,Rose,195
-5,Lisboa,Red,196
-6,Madeira,Rose,197
-6,Dao,Rose,198
-7,Minho,Red,199
+6,Terras De Cister,Red,131
+7,Beira Atlantico,Rose,132
+5,Beira Interior,White,133
+6,Algarve,White,134
+6,Tejo,Rose,135
+6,Alentejo,Red,136
+6,Beira Interior,Red,137
+5,Setubal,White,138
+6,Beira Atlantico,White,139
+7,Beira Interior,White,140
+5,Alentejo,Rose,141
+5,Beira Interior,Rose,142
+6,Beira Atlantico,Red,143
+5,Dao,Rose,144
+6,Transmontano,Rose,145
+6,Setubal,Red,146
+6,Transmontano,White,147
+5,Madeira,Rose,148
+5,Algarve,Red,149
+6,Alentejo,Rose,150
+6,Minho,Rose,151
+7,Dao,Rose,152
+6,Alentejo,Rose,153
+6,Alentejo,White,154
+5,Setubal,Red,155
+6,Terras De Cister,Rose,156
+7,Tejo,White,157
+5,Algarve,Rose,158
+5,Transmontano,Rose,159
+6,Transmontano,Rose,160
+6,Madeira,Rose,161
+8,Beira Interior,Red,162
+6,Algarve,Red,163
+5,Setubal,Red,164
+6,Minho,White,165
+8,Minho,Rose,166
+7,Beira Interior,Rose,167
+5,Minho,Rose,168
+6,Beira Atlantico,White,169
+6,Lisboa,White,170
+6,Minho,White,171
+6,Madeira,White,172
+7,Lisboa,Rose,173
+7,Beira Atlantico,Rose,174
+6,Transmontano,White,175
+7,Algarve,Red,176
+6,Minho,White,177
+7,Minho,Red,178
+7,Madeira,Red,179
+5,Minho,Rose,180
+6,Algarve,Red,181
+9,Alentejo,White,182
+6,Beira Atlantico,Red,183
+6,Minho,White,184
+8,Douro Valley,White,185
+5,Alentejo,White,186
+7,Beira Interior,Rose,187
+6,Madeira,Red,188
+5,Terras De Cister,White,189
+5,Dao,Rose,190
+6,Lisboa,Red,191
+5,Madeira,Red,192
+6,Beira Interior,White,193
+5,Terras De Cister,White,194
+6,Terras De Cister,White,195
+5,Tejo,White,196
+6,Beira Atlantico,Red,197
+6,Minho,Red,198
+7,Transmontano,White,199
 6,Douro Valley,White,200
-5,Beira Interior,Red,201
+5,Madeira,Red,201
 5,Beira Interior,White,202
-5,Douro Valley,Red,203
-7,Terras De Cister,White,204
-6,Terras De Cister,White,205
-5,Alentejo,Red,206
-6,Algarve,Rose,207
+5,Douro Valley,Rose,203
+7,Minho,Red,204
+6,Algarve,Rose,205
+5,Terras De Cister,Red,206
+6,Dao,Rose,207
 6,Dao,Red,208
-7,Lisboa,Red,209
+7,Lisboa,White,209
 6,Setubal,Red,210
-5,Beira Interior,Red,211
-6,Beira Interior,Red,212
-5,Lisboa,Rose,213
-6,Terras De Cister,Red,214
-6,Dao,Rose,215
-5,Beira Atlantico,Rose,216
-8,Douro Valley,Rose,217
-6,Douro Valley,Rose,218
-5,Douro Valley,White,219
-5,Lisboa,White,220
-6,Terras De Cister,White,221
-5,Beira Atlantico,Red,222
-6,Beira Atlantico,White,223
-6,Tejo,Rose,224
-5,Douro Valley,Red,225
-6,Transmontano,Red,226
-6,Douro Valley,Red,227
-6,Algarve,Red,228
-6,Minho,Rose,229
-6,Madeira,Rose,230
-5,Algarve,Rose,231
-6,Douro Valley,White,232
-6,Madeira,White,233
-6,Beira Atlantico,White,234
-6,Douro Valley,White,235
-5,Lisboa,Red,236
-4,Douro Valley,White,237
-6,Algarve,Rose,238
-5,Madeira,Rose,239
-7,Beira Atlantico,Red,240
-6,Terras De Cister,Red,241
-6,Setubal,Rose,242
-6,Douro Valley,Red,243
-6,Minho,Red,244
-5,Dao,Rose,245
-6,Tejo,White,246
-5,Setubal,White,247
-6,Dao,Rose,248
-6,Douro Valley,Rose,249
-6,Douro Valley,Red,250
-7,Beira Atlantico,White,251
-5,Minho,Red,252
-6,Minho,Red,253
-6,Beira Atlantico,Rose,254
-6,Terras De Cister,Red,255
-8,Beira Interior,White,256
-5,Alentejo,Rose,257
-6,Terras De Cister,White,258
-6,Beira Interior,Rose,259
-5,Terras De Cister,Red,260
-6,Dao,Rose,261
-5,Setubal,Red,262
-6,Algarve,White,263
-5,Tejo,Rose,264
-7,Dao,White,265
-5,Lisboa,Red,266
-6,Setubal,Red,267
-6,Transmontano,Rose,268
-6,Dao,Rose,269
-7,Madeira,White,270
-7,Beira Interior,Rose,271
-5,Terras De Cister,White,272
-6,Minho,White,273
-5,Terras De Cister,Rose,274
-7,Dao,White,275
-6,Madeira,Rose,276
-5,Transmontano,Rose,277
-6,Dao,Red,278
-5,Minho,White,279
-6,Algarve,White,280
-5,Madeira,Red,281
-6,Tejo,Red,282
-5,Setubal,Red,283
-6,Terras De Cister,White,284
-7,Douro Valley,Rose,285
-6,Setubal,Rose,286
-6,Dao,White,287
-7,Douro Valley,Red,288
-5,Setubal,Rose,289
-5,Douro Valley,Rose,290
-5,Setubal,Rose,291
-5,Terras De Cister,Rose,292
-6,Lisboa,Red,293
-6,Madeira,Red,294
-6,Setubal,White,295
-5,Alentejo,White,296
-5,Douro Valley,Red,297
-6,Setubal,Red,298
-5,Alentejo,White,299
-6,Alentejo,Red,300
-5,Dao,White,301
-6,Setubal,Rose,302
-6,Minho,White,303
-7,Lisboa,Rose,304
-6,Beira Interior,Red,305
-6,Minho,Rose,306
-6,Beira Atlantico,White,307
-6,Lisboa,White,308
-6,Setubal,Rose,309
-7,Tejo,Rose,310
-5,Minho,Red,311
-7,Terras De Cister,White,312
-6,Madeira,Red,313
-6,Dao,Red,314
-6,Beira Atlantico,Red,315
-5,Beira Interior,White,316
-6,Minho,Rose,317
-6,Algarve,Red,318
+5,Setubal,Rose,211
+6,Lisboa,Red,212
+5,Beira Interior,Red,213
+6,Douro Valley,Rose,214
+6,Terras De Cister,Rose,215
+5,Madeira,Rose,216
+8,Beira Interior,Red,217
+6,Setubal,Rose,218
+5,Alentejo,White,219
+5,Algarve,Red,220
+6,Algarve,Red,221
+5,Dao,Rose,222
+6,Madeira,Red,223
+6,Dao,White,224
+5,Setubal,Rose,225
+6,Minho,Rose,226
+6,Douro Valley,Rose,227
+6,Transmontano,White,228
+6,Transmontano,White,229
+6,Alentejo,Red,230
+5,Beira Atlantico,White,231
+6,Madeira,Red,232
+6,Dao,Rose,233
+6,Beira Interior,Red,234
+6,Minho,Rose,235
+5,Tejo,White,236
+4,Minho,White,237
+6,Minho,Red,238
+5,Lisboa,White,239
+7,Setubal,White,240
+6,Alentejo,Red,241
+6,Terras De Cister,Rose,242
+6,Madeira,White,243
+6,Madeira,White,244
+5,Alentejo,Red,245
+6,Dao,White,246
+5,Terras De Cister,White,247
+6,Alentejo,White,248
+6,Transmontano,Rose,249
+6,Lisboa,White,250
+7,Minho,Red,251
+5,Dao,White,252
+6,Douro Valley,Rose,253
+6,Terras De Cister,White,254
+6,Beira Interior,White,255
+8,Alentejo,White,256
+5,Beira Interior,Red,257
+6,Transmontano,Rose,258
+6,Algarve,Rose,259
+5,Algarve,Rose,260
+6,Lisboa,Rose,261
+5,Transmontano,Rose,262
+6,Beira Interior,White,263
+5,Dao,Rose,264
+7,Terras De Cister,Red,265
+5,Beira Interior,Rose,266
+6,Douro Valley,Red,267
+6,Algarve,Red,268
+6,Minho,White,269
+7,Lisboa,Red,270
+7,Lisboa,White,271
+5,Alentejo,Rose,272
+6,Tejo,White,273
+5,Lisboa,Rose,274
+7,Minho,White,275
+6,Alentejo,Red,276
+5,Beira Interior,Red,277
+6,Alentejo,Red,278
+6,Transmontano,White,280
+5,Minho,Red,281
+6,Alentejo,Rose,282
+5,Tejo,White,283
+6,Minho,Red,284
+7,Tejo,Red,285
+6,Terras De Cister,Red,286
+6,Transmontano,White,287
+7,Beira Atlantico,Red,288
+5,Minho,White,289
+5,Dao,Red,290
+5,Alentejo,White,291
+5,Algarve,Rose,292
+6,Algarve,Rose,293
+6,Terras De Cister,Red,294
+6,Algarve,White,295
+5,Madeira,White,296
+5,Setubal,White,297
+6,Lisboa,Rose,298
+5,Madeira,White,299
+6,Douro Valley,Rose,300
+5,Algarve,Red,301
+6,Beira Atlantico,White,302
+6,Minho,Rose,303
+7,Lisboa,Red,304
+6,Minho,Red,305
+6,Beira Interior,Red,306
+6,Madeira,Rose,308
+6,Lisboa,Red,309
+7,Algarve,Red,310
+5,Algarve,Rose,311
+7,Lisboa,White,312
+6,Algarve,White,313
+6,Beira Interior,Red,314
+6,Beira Interior,Rose,315
+5,Minho,White,316
+6,Dao,Rose,317
+6,Minho,Rose,318
 6,Transmontano,White,319
-6,Douro Valley,White,320
-3,Beira Interior,White,321
-4,Transmontano,White,322
-5,Dao,Rose,323
+6,Madeira,Red,320
+3,Lisboa,White,321
+4,Douro Valley,White,322
+5,Dao,White,323
 7,Transmontano,White,324
-7,Algarve,Red,325
-7,Terras De Cister,Rose,326
-7,Beira Interior,White,327
-6,Terras De Cister,Red,328
-6,Tejo,Red,329
-6,Alentejo,Rose,330
-6,Algarve,White,331
-6,Tejo,Red,332
-7,Tejo,White,333
-5,Douro Valley,White,334
-6,Beira Atlantico,White,335
-6,Algarve,Rose,336
-6,Beira Atlantico,Red,337
-7,Beira Atlantico,Red,338
-4,Beira Interior,Red,339
-6,Setubal,White,340
-7,Minho,White,341
-5,Minho,White,342
-6,Setubal,White,343
-6,Dao,Red,344
-5,Tejo,Rose,345
-6,Setubal,Red,346
-8,Alentejo,Red,347
-5,Beira Atlantico,Red,348
-6,Minho,Red,349
-6,Beira Atlantico,Rose,350
-6,Setubal,Red,351
-5,Transmontano,Rose,352
-7,Transmontano,White,353
-6,Alentejo,Red,354
-7,Douro Valley,Rose,355
-5,Beira Interior,Rose,356
-6,Beira Interior,Rose,357
-7,Setubal,Rose,358
-5,Tejo,Rose,359
-6,Beira Atlantico,Rose,360
-5,Beira Atlantico,Rose,361
-6,Douro Valley,Red,362
-6,Terras De Cister,Red,363
-6,Madeira,Red,364
-8,Transmontano,Red,365
-7,Dao,Red,366
-5,Madeira,White,367
-5,Alentejo,White,368
-6,Lisboa,Rose,369
-7,Transmontano,Rose,370
-6,Beira Atlantico,White,371
-8,Beira Atlantico,White,372
-5,Terras De Cister,Rose,373
-7,Dao,White,374
-6,Beira Interior,White,375
-5,Terras De Cister,White,376
-6,Douro Valley,Red,377
-8,Dao,White,378
-6,Douro Valley,Red,379
-6,Douro Valley,Red,380
-6,Tejo,Red,381
-5,Tejo,Rose,382
-6,Lisboa,Red,383
-6,Douro Valley,White,384
-8,Beira Interior,Rose,385
-5,Beira Interior,Rose,386
-6,Tejo,Rose,387
-6,Dao,Red,388
-6,Beira Atlantico,Red,389
-6,Terras De Cister,White,390
-7,Douro Valley,Rose,391
-7,Beira Interior,Red,392
-6,Madeira,Red,393
-6,Setubal,Red,394
-5,Beira Interior,White,395
-6,Beira Interior,Red,396
-8,Madeira,Rose,397
-6,Dao,Red,398
-5,Madeira,Red,399
-5,Algarve,Red,400
-7,Setubal,Rose,401
-6,Madeira,Rose,402
-7,Beira Atlantico,Rose,403
-5,Beira Interior,Rose,404
-5,Minho,White,405
-7,Transmontano,Red,406
-7,Tejo,Red,407
-8,Setubal,White,408
-5,Alentejo,Rose,409
-7,Beira Atlantico,White,410
-5,Terras De Cister,White,411
-6,Minho,Rose,412
-6,Douro Valley,Red,413
-5,Madeira,Rose,414
-5,Alentejo,Rose,415
-7,Terras De Cister,Rose,416
-6,Setubal,White,417
-3,Beira Interior,Red,418
-5,Alentejo,Rose,419
-5,Beira Atlantico,Rose,420
-5,Lisboa,Red,421
-6,Alentejo,White,422
-5,Beira Interior,Red,423
-6,Beira Interior,White,424
-5,Setubal,Red,425
-6,Beira Interior,Rose,426
-6,Lisboa,White,427
-7,Minho,Red,428
-6,Tejo,Rose,429
-5,Minho,White,430
-6,Setubal,White,431
-7,Transmontano,White,432
-7,Lisboa,White,433
-6,Setubal,White,434
-5,Tejo,White,435
-7,Dao,Rose,436
-6,Madeira,Rose,437
-6,Tejo,Red,438
-6,Alentejo,Red,439
-6,Minho,Red,440
-6,Minho,White,441
-7,Terras De Cister,White,442
-5,Douro Valley,Rose,443
-6,Algarve,Red,444
-5,Beira Atlantico,Red,445
-6,Beira Atlantico,White,446
-7,Douro Valley,Red,447
-6,Tejo,White,448
-5,Douro Valley,White,449
-5,Dao,White,450
-5,Beira Interior,White,451
-7,Algarve,White,452
-5,Alentejo,White,453
-5,Beira Interior,Red,454
-6,Beira Interior,Rose,455
-6,Tejo,Rose,456
-7,Douro Valley,Rose,457
-6,Madeira,Red,458
-5,Dao,Red,459
-6,Minho,Rose,460
-5,Douro Valley,White,461
-4,Dao,White,462
-7,Minho,Red,463
-6,Transmontano,Red,464
-7,Alentejo,White,465
-4,Algarve,Rose,466
+7,Beira Atlantico,Red,325
+7,Beira Interior,Rose,326
+7,Alentejo,Red,327
+6,Dao,Rose,328
+6,Douro Valley,Red,329
+6,Beira Atlantico,Rose,330
+6,Beira Atlantico,Red,331
+6,Douro Valley,Red,332
+7,Lisboa,White,333
+5,Lisboa,Red,334
+6,Dao,White,335
+6,Lisboa,Rose,336
+6,Setubal,Red,337
+7,Lisboa,Rose,338
+4,Lisboa,Rose,339
+6,Algarve,Rose,340
+7,Terras De Cister,Rose,341
+5,Beira Atlantico,Rose,342
+6,Douro Valley,White,343
+6,Algarve,White,344
+5,Dao,Red,345
+6,Tejo,Red,346
+8,Alentejo,White,347
+5,Algarve,White,348
+6,Madeira,Rose,349
+6,Madeira,White,350
+6,Beira Interior,Red,351
+5,Alentejo,White,352
+7,Terras De Cister,Rose,353
+6,Beira Interior,Red,354
+7,Transmontano,Red,355
+5,Douro Valley,Rose,356
+6,Beira Atlantico,Red,357
+7,Terras De Cister,Rose,358
+5,Alentejo,White,359
+6,Beira Atlantico,Red,360
+5,Lisboa,Red,361
+6,Alentejo,Red,362
+6,Alentejo,White,363
+6,Dao,White,364
+8,Transmontano,White,365
+7,Douro Valley,Rose,366
+5,Beira Interior,Red,367
+5,Dao,Rose,368
+6,Algarve,Red,369
+7,Douro Valley,White,370
+6,Transmontano,Red,371
+8,Beira Interior,Red,372
+5,Terras De Cister,Red,373
+7,Beira Atlantico,Rose,374
+6,Setubal,Rose,375
+5,Transmontano,White,376
+6,Alentejo,Rose,377
+8,Setubal,Red,378
+6,Terras De Cister,White,379
+6,Terras De Cister,White,380
+5,Douro Valley,Rose,382
+6,Madeira,Red,383
+6,Minho,White,384
+8,Douro Valley,Red,385
+5,Transmontano,Rose,386
+6,Beira Interior,Red,387
+6,Terras De Cister,Rose,388
+6,Transmontano,Rose,389
+6,Douro Valley,Rose,390
+7,Tejo,White,391
+7,Beira Interior,Rose,392
+6,Douro Valley,Rose,393
+6,Dao,White,394
+5,Beira Interior,Rose,395
+6,Minho,Rose,396
+8,Alentejo,Rose,397
+6,Beira Atlantico,Red,398
+5,Transmontano,White,399
+5,Madeira,Rose,400
+7,Madeira,White,401
+6,Lisboa,Red,402
+7,Douro Valley,Rose,403
+5,Terras De Cister,Red,404
+5,Dao,Rose,405
+7,Dao,Rose,406
+7,Algarve,White,407
+8,Beira Interior,White,408
+5,Beira Interior,Red,409
+7,Minho,Red,410
+5,Madeira,White,411
+6,Algarve,Red,412
+6,Madeira,Red,413
+5,Algarve,Rose,414
+5,Beira Interior,Rose,415
+7,Madeira,Rose,416
+6,Minho,Red,417
+3,Algarve,White,418
+5,Beira Interior,Rose,419
+5,Terras De Cister,Rose,420
+5,Minho,Rose,421
+6,Minho,White,422
+5,Lisboa,Red,423
+6,Terras De Cister,Red,424
+5,Douro Valley,White,425
+6,Douro Valley,Rose,426
+6,Beira Atlantico,Rose,427
+7,Algarve,White,428
+6,Transmontano,Rose,429
+5,Beira Atlantico,Red,430
+6,Beira Atlantico,White,431
+7,Dao,Rose,432
+7,Terras De Cister,Rose,433
+6,Algarve,White,434
+5,Alentejo,Rose,435
+7,Minho,Red,436
+6,Transmontano,Red,437
+6,Beira Interior,Red,438
+6,Transmontano,Red,439
+6,Lisboa,White,440
+6,Dao,Rose,441
+7,Douro Valley,Rose,442
+5,Madeira,Rose,443
+6,Lisboa,Red,444
+5,Transmontano,White,445
+6,Beira Interior,White,446
+7,Douro Valley,White,447
+6,Algarve,Red,448
+5,Minho,Red,449
+5,Beira Atlantico,Red,450
+5,Dao,White,451
+7,Dao,Rose,452
+5,Beira Atlantico,Red,453
+5,Lisboa,White,454
+6,Dao,Red,455
+6,Algarve,White,456
+7,Madeira,White,457
+6,Terras De Cister,Rose,458
+5,Dao,White,459
+6,Tejo,Red,460
+5,Minho,White,461
+4,Alentejo,Red,462
+7,Beira Atlantico,Rose,463
+6,Tejo,White,464
+7,Dao,Red,465
+4,Douro Valley,Rose,466
 6,Beira Atlantico,Rose,467
-6,Algarve,White,468
-6,Madeira,Rose,469
-5,Madeira,Rose,470
-7,Madeira,Red,471
-7,Transmontano,Red,472
-7,Minho,White,473
-6,Alentejo,White,474
-6,Terras De Cister,White,475
-6,Minho,White,476
-6,Algarve,Rose,477
-6,Dao,White,478
-6,Lisboa,Rose,479
-7,Tejo,Red,480
-6,Tejo,White,481
-6,Lisboa,Red,482
-5,Beira Interior,Rose,483
-6,Setubal,Rose,484
-6,Madeira,Rose,485
-6,Douro Valley,Rose,486
-6,Alentejo,Red,487
-5,Transmontano,Rose,488
-7,Beira Atlantico,White,489
-7,Alentejo,White,490
-5,Tejo,Red,491
-8,Transmontano,Rose,492
-6,Tejo,Red,493
-4,Setubal,White,494
-6,Madeira,Rose,495
-5,Alentejo,White,496
-5,Beira Atlantico,Rose,497
-6,Setubal,Rose,498
+6,Madeira,White,468
+6,Minho,Rose,469
+5,Douro Valley,Red,470
+7,Setubal,Rose,471
+7,Beira Atlantico,White,472
+7,Dao,White,473
+6,Minho,Red,474
+6,Beira Interior,Rose,475
+6,Algarve,White,476
+6,Minho,Red,477
+6,Douro Valley,White,478
+6,Setubal,Rose,479
+7,Minho,White,480
+6,Transmontano,White,481
+6,Transmontano,White,482
+5,Madeira,Rose,483
+6,Alentejo,Red,484
+6,Beira Atlantico,White,485
+6,Transmontano,Red,486
+6,Minho,Red,487
+5,Tejo,Red,488
+7,Alentejo,White,489
+7,Madeira,Red,490
+5,Minho,White,491
+8,Terras De Cister,Rose,492
+6,Tejo,White,493
+4,Algarve,White,494
+6,Alentejo,Red,495
+5,Douro Valley,Rose,496
+5,Douro Valley,Red,497
+6,Lisboa,Rose,498
 5,Minho,Red,499
-7,Terras De Cister,Rose,500
-7,Terras De Cister,Red,501
-6,Algarve,White,502
-6,Alentejo,White,503
-6,Transmontano,White,504
-6,Tejo,Red,505
-5,Transmontano,Red,506
-6,Minho,White,507
-6,Madeira,White,508
-5,Beira Interior,White,509
-6,Beira Interior,White,510
-6,Terras De Cister,Red,511
-6,Transmontano,White,512
-5,Lisboa,White,513
-4,Dao,Red,514
-5,Terras De Cister,Rose,515
+7,Terras De Cister,Red,500
+7,Tejo,Red,501
+6,Transmontano,Red,502
+6,Tejo,White,503
+6,Minho,Rose,504
+6,Alentejo,Rose,505
+5,Setubal,Rose,506
+6,Tejo,Red,507
+6,Madeira,Red,508
+5,Algarve,Red,509
+6,Beira Atlantico,Rose,510
+6,Douro Valley,Red,511
+6,Beira Atlantico,Rose,512
+5,Beira Atlantico,White,513
+4,Transmontano,Red,514
+5,Lisboa,Rose,515
 7,Terras De Cister,Red,516
-6,Algarve,Rose,517
-5,Lisboa,White,518
-6,Minho,Rose,519
-6,Dao,Rose,520
-7,Transmontano,Red,521
-7,Terras De Cister,Red,522
-6,Alentejo,White,523
-5,Douro Valley,White,524
-5,Lisboa,Red,525
-6,Transmontano,Rose,526
-6,Beira Interior,Rose,527
-6,Algarve,White,528
-6,Madeira,White,529
-6,Minho,Rose,530
-6,Madeira,White,531
-6,Douro Valley,Rose,532
-6,Setubal,Red,533
-6,Dao,Red,534
-5,Douro Valley,Red,535
-5,Algarve,Rose,536
-6,Algarve,Rose,537
-5,Setubal,Rose,538
-6,Minho,White,539
-5,Transmontano,Rose,540
-4,Dao,White,541
-6,Beira Interior,White,542
-5,Beira Atlantico,Red,543
-8,Alentejo,Rose,544
-6,Beira Interior,White,545
-5,Alentejo,Red,546
-6,Alentejo,Rose,547
-6,Algarve,Red,548
-7,Madeira,Red,549
-6,Alentejo,White,550
-7,Tejo,Rose,551
-6,Dao,White,552
-6,Lisboa,Red,553
-6,Tejo,White,554
-6,Tejo,Rose,555
-6,Beira Atlantico,Rose,556
-5,Minho,White,557
-5,Beira Interior,Rose,558
-6,Terras De Cister,White,559
-6,Tejo,Red,560
+6,Setubal,Rose,517
+5,Tejo,Red,518
+6,Beira Interior,Rose,519
+6,Beira Atlantico,Rose,520
+7,Algarve,Rose,521
+7,Algarve,White,522
+6,Beira Interior,White,523
+5,Lisboa,Red,524
+5,Tejo,Rose,525
+6,Lisboa,Rose,526
+6,Terras De Cister,Rose,527
+6,Dao,Rose,528
+6,Beira Interior,White,529
+6,Dao,Red,530
+6,Algarve,Rose,531
+6,Algarve,Red,532
+6,Algarve,Red,533
+6,Beira Atlantico,Red,534
+5,Madeira,Rose,535
+5,Douro Valley,White,536
+6,Alentejo,Rose,537
+5,Beira Atlantico,White,538
+6,Beira Interior,Rose,539
+5,Algarve,Rose,540
+4,Lisboa,Red,541
+6,Terras De Cister,White,542
+5,Setubal,Red,543
+8,Douro Valley,Red,544
+6,Beira Atlantico,White,545
+5,Terras De Cister,Rose,546
+6,Terras De Cister,Rose,547
+6,Beira Atlantico,Red,548
+7,Minho,Rose,549
+6,Terras De Cister,Rose,550
+7,Lisboa,White,551
+6,Tejo,Red,552
+6,Terras De Cister,Rose,553
+6,Setubal,Red,554
+6,Lisboa,White,555
+6,Transmontano,White,556
+5,Beira Interior,Rose,557
+5,Madeira,White,558
+6,Minho,Rose,559
+6,Terras De Cister,Rose,560
 6,Algarve,White,561
-7,Lisboa,Rose,562
-6,Douro Valley,Red,563
-6,Algarve,Red,564
-5,Terras De Cister,Rose,565
-5,Algarve,Rose,566
-6,Madeira,Rose,567
-6,Dao,Rose,568
-5,Algarve,White,569
-6,Lisboa,Rose,570
-6,Beira Atlantico,White,571
-5,Alentejo,Red,572
-5,Dao,Red,573
-6,Minho,Red,574
-5,Minho,Rose,575
-6,Terras De Cister,Red,576
-5,Tejo,Red,577
-6,Transmontano,White,578
-5,Madeira,White,579
-6,Terras De Cister,Red,580
-5,Beira Interior,Red,581
-7,Terras De Cister,White,582
-7,Douro Valley,White,583
-5,Algarve,White,584
-7,Beira Interior,White,585
-6,Dao,Red,586
-6,Tejo,White,587
-6,Minho,White,588
-6,Transmontano,Red,589
-5,Minho,Rose,590
-6,Dao,Red,591
-7,Setubal,Rose,592
-5,Beira Atlantico,Red,593
-6,Lisboa,Red,594
-6,Douro Valley,White,595
-6,Beira Interior,Red,596
-5,Dao,White,597
-6,Terras De Cister,Red,598
-7,Algarve,Red,599
-7,Algarve,Rose,600
-7,Terras De Cister,Red,601
-5,Alentejo,White,602
-8,Minho,White,603
-5,Setubal,Rose,604
-8,Tejo,Red,605
-7,Douro Valley,Red,606
-7,Alentejo,Rose,607
-5,Dao,Red,608
-6,Transmontano,Rose,609
-6,Transmontano,Red,610
-6,Algarve,Rose,611
-6,Setubal,White,612
-5,Madeira,Red,613
-5,Minho,White,614
-5,Madeira,Red,615
-5,Minho,Red,616
-5,Lisboa,White,617
-5,Douro Valley,Red,618
-7,Terras De Cister,Rose,619
-6,Douro Valley,Red,620
-6,Terras De Cister,Red,621
-5,Douro Valley,Red,622
-6,Douro Valley,White,623
-6,Alentejo,Red,624
-6,Terras De Cister,White,625
-5,Dao,Red,626
-5,Dao,Red,627
-5,Terras De Cister,White,628
-6,Beira Interior,Rose,629
-5,Beira Interior,Red,630
-6,Beira Interior,Rose,631
-6,Beira Interior,Red,632
-6,Dao,Red,633
-6,Transmontano,White,634
-6,Transmontano,Red,635
-6,Madeira,Red,636
+7,Beira Atlantico,White,562
+6,Terras De Cister,White,563
+6,Dao,White,564
+5,Setubal,White,565
+5,Beira Atlantico,White,566
+6,Minho,Red,567
+6,Minho,Red,568
+5,Lisboa,Rose,569
+6,Dao,Red,570
+6,Beira Atlantico,Rose,571
+5,Alentejo,White,572
+5,Minho,White,573
+6,Dao,Rose,574
+5,Madeira,White,575
+6,Douro Valley,Red,576
+5,Algarve,Rose,577
+6,Dao,Red,578
+5,Alentejo,Rose,579
+6,Algarve,Rose,580
+5,Lisboa,White,581
+7,Setubal,Red,582
+7,Dao,White,583
+5,Terras De Cister,Rose,584
+7,Beira Atlantico,White,585
+6,Transmontano,White,586
+6,Algarve,Red,587
+6,Dao,Red,588
+6,Douro Valley,White,589
+5,Algarve,White,590
+6,Tejo,Rose,591
+7,Lisboa,White,592
+5,Madeira,White,593
+6,Madeira,Rose,594
+6,Dao,White,595
+6,Transmontano,Red,596
+5,Alentejo,Red,597
+6,Algarve,White,598
+7,Transmontano,Rose,599
+7,Lisboa,Red,600
+7,Alentejo,White,601
+5,Minho,Rose,602
+8,Beira Atlantico,Red,603
+5,Alentejo,Rose,604
+8,Beira Atlantico,White,605
+7,Dao,White,607
+5,Madeira,Rose,608
+6,Dao,White,609
+6,Beira Atlantico,Rose,610
+6,Tejo,Red,611
+6,Beira Interior,Red,612
+5,Tejo,Rose,613
+5,Algarve,Red,614
+5,Douro Valley,White,615
+5,Douro Valley,Rose,616
+5,Transmontano,Rose,617
+5,Beira Interior,Red,618
+7,Douro Valley,Rose,619
+6,Transmontano,Red,620
+6,Madeira,White,621
+5,Setubal,Red,622
+6,Setubal,Rose,623
+6,Lisboa,White,624
+6,Beira Interior,Red,625
+5,Beira Atlantico,Rose,626
+5,Setubal,Red,627
+5,Beira Interior,White,628
+6,Tejo,White,629
+5,Transmontano,Red,630
+6,Lisboa,Rose,631
+6,Beira Atlantico,White,632
+6,Beira Interior,White,633
+6,Transmontano,Rose,634
+6,Dao,White,635
+6,Dao,White,636
 7,Lisboa,Red,637
-6,Transmontano,White,638
-7,Douro Valley,Red,639
-6,Lisboa,Rose,640
-6,Algarve,Red,641
-5,Tejo,Red,642
-6,Dao,White,643
-6,Madeira,Red,644
-7,Terras De Cister,White,645
-5,Douro Valley,White,646
-4,Terras De Cister,Rose,647
-5,Beira Interior,Rose,648
-5,Setubal,Rose,649
-5,Terras De Cister,White,650
-6,Alentejo,Red,651
-5,Madeira,White,652
-7,Transmontano,White,653
-6,Setubal,White,654
-5,Madeira,White,655
-6,Tejo,White,656
-6,Algarve,Rose,657
-6,Algarve,White,658
-5,Setubal,Rose,659
-5,Tejo,Red,660
-7,Beira Interior,Rose,661
-6,Beira Interior,White,662
-5,Transmontano,Rose,663
-6,Beira Atlantico,Rose,664
-5,Madeira,Red,665
-6,Alentejo,Red,666
+6,Dao,Rose,638
+7,Beira Atlantico,White,639
+6,Madeira,White,640
+6,Terras De Cister,Red,641
+5,Algarve,Rose,642
+6,Douro Valley,Rose,643
+6,Minho,Red,644
+7,Beira Atlantico,Red,645
+5,Algarve,Red,646
+4,Dao,Red,647
+5,Dao,White,648
+5,Minho,Red,649
+5,Tejo,Rose,650
+6,Setubal,Red,651
+5,Beira Interior,White,652
+7,Douro Valley,Rose,653
+6,Terras De Cister,Red,654
+5,Tejo,Red,655
+6,Lisboa,Rose,656
+6,Minho,Rose,657
+6,Dao,Red,658
+5,Beira Interior,White,659
+7,Setubal,Rose,661
+6,Setubal,Rose,662
+5,Douro Valley,Red,663
+6,Setubal,White,664
+5,Alentejo,Rose,665
+6,Minho,White,666
 5,Beira Atlantico,Red,667
-5,Madeira,Rose,668
-6,Madeira,White,669
-7,Douro Valley,Red,670
-5,Dao,White,671
-6,Minho,Red,672
-6,Minho,Rose,673
-8,Transmontano,White,674
-6,Lisboa,Rose,675
-5,Terras De Cister,Rose,676
-6,Beira Interior,Rose,677
-5,Beira Interior,Red,678
-6,Lisboa,Rose,679
-5,Lisboa,White,680
-6,Setubal,Rose,681
+5,Algarve,White,668
+6,Beira Interior,Rose,669
+7,Minho,Red,670
+5,Douro Valley,Rose,671
+6,Beira Atlantico,White,672
+6,Dao,White,673
+8,Beira Interior,White,674
+6,Beira Interior,White,675
+5,Tejo,White,676
+6,Beira Atlantico,Rose,677
+5,Beira Atlantico,White,678
+6,Transmontano,Rose,679
+5,Beira Interior,Red,680
+6,Alentejo,Rose,681
 6,Douro Valley,Red,682
-6,Algarve,Rose,683
-5,Madeira,White,684
-5,Lisboa,White,685
-6,Alentejo,Rose,686
+6,Minho,White,683
+5,Minho,White,684
+5,Douro Valley,Rose,685
+6,Setubal,Red,686
 5,Beira Atlantico,White,687
-6,Alentejo,White,688
-5,Beira Atlantico,Rose,689
-6,Terras De Cister,Rose,690
-7,Tejo,White,691
-6,Transmontano,Red,692
-7,Douro Valley,Rose,693
-5,Beira Interior,Red,694
-6,Douro Valley,White,695
-6,Douro Valley,White,696
-5,Terras De Cister,White,697
-5,Minho,White,698
-6,Beira Atlantico,Rose,699
-4,Beira Interior,Red,700
-5,Lisboa,Red,701
-5,Beira Atlantico,Rose,702
+6,Dao,White,688
+5,Douro Valley,Red,689
+6,Setubal,Red,690
+7,Algarve,White,691
+6,Tejo,Rose,692
+7,Setubal,White,693
+5,Tejo,Red,694
+6,Dao,Rose,695
+6,Madeira,White,696
+5,Alentejo,Red,697
+5,Lisboa,Red,698
+6,Setubal,Rose,699
+4,Transmontano,Red,700
+5,Terras De Cister,Red,701
+5,Minho,Red,702
 6,Transmontano,White,703
-7,Minho,Rose,704
-7,Dao,Red,705
+7,Terras De Cister,White,704
+7,Terras De Cister,Red,705
 5,Algarve,Rose,706
-5,Dao,Red,707
-6,Tejo,White,708
-7,Setubal,Rose,709
-5,Alentejo,Rose,710
-6,Alentejo,White,711
-6,Lisboa,White,712
-6,Dao,White,713
-6,Madeira,Rose,714
-5,Douro Valley,Red,715
-6,Terras De Cister,Red,716
-7,Douro Valley,Rose,717
-5,Algarve,White,718
-5,Dao,White,719
-6,Algarve,Red,720
-6,Alentejo,White,721
-6,Douro Valley,Rose,722
-5,Lisboa,White,723
-5,Dao,Rose,724
-6,Setubal,Red,725
-6,Tejo,Rose,726
-5,Setubal,Red,727
-6,Alentejo,White,728
-4,Algarve,Rose,729
-5,Terras De Cister,White,730
-7,Beira Interior,Red,731
-5,Tejo,Rose,732
-5,Terras De Cister,Rose,733
-5,Douro Valley,Rose,734
-5,Tejo,Rose,735
-5,Setubal,White,736
-6,Dao,White,737
-5,Madeira,Red,738
-5,Alentejo,Red,739
-5,Transmontano,Red,740
-7,Lisboa,White,741
-5,Lisboa,White,742
-7,Setubal,Rose,743
-6,Terras De Cister,Rose,744
-4,Dao,White,745
-6,Terras De Cister,White,746
-5,Setubal,Rose,747
-7,Minho,Rose,748
-7,Alentejo,White,749
-6,Douro Valley,Red,750
-6,Dao,White,751
-6,Dao,Red,752
-7,Terras De Cister,Red,753
-6,Setubal,White,754
-6,Dao,Red,755
-8,Dao,Rose,756
-5,Douro Valley,Rose,757
-6,Beira Interior,Rose,758
-7,Douro Valley,White,759
-6,Dao,White,760
-6,Algarve,White,761
-6,Madeira,White,762
-6,Dao,Rose,763
-5,Beira Interior,White,764
-5,Dao,Red,765
-7,Alentejo,Rose,766
-6,Madeira,White,767
-5,Alentejo,White,768
-5,Madeira,White,769
-5,Transmontano,Rose,770
-6,Beira Interior,Rose,771
-6,Douro Valley,Red,772
-5,Madeira,Rose,773
-6,Beira Atlantico,Red,774
-7,Dao,Rose,775
-6,Algarve,White,776
-6,Terras De Cister,Rose,777
-8,Setubal,White,778
-6,Douro Valley,Rose,779
-7,Lisboa,Rose,780
+5,Beira Atlantico,Rose,707
+6,Douro Valley,White,708
+7,Setubal,White,709
+5,Lisboa,White,710
+6,Transmontano,Rose,711
+6,Transmontano,Red,712
+6,Terras De Cister,White,713
+6,Minho,White,714
+5,Terras De Cister,White,715
+6,Lisboa,White,716
+7,Alentejo,Red,717
+5,Transmontano,Rose,719
+6,Tejo,White,720
+6,Beira Atlantico,Red,721
+6,Transmontano,Rose,722
+5,Algarve,Rose,723
+5,Transmontano,White,724
+6,Alentejo,Rose,725
+6,Dao,Red,726
+5,Madeira,White,727
+6,Dao,Rose,728
+4,Madeira,White,729
+5,Transmontano,Red,730
+7,Beira Atlantico,Rose,731
+5,Lisboa,Red,732
+5,Beira Interior,Red,733
+5,Transmontano,Rose,734
+5,Dao,Rose,735
+5,Setubal,Rose,736
+6,Beira Interior,Rose,737
+5,Minho,Red,738
+5,Beira Interior,White,739
+5,Tejo,Rose,740
+7,Transmontano,White,741
+5,Lisboa,Red,742
+7,Alentejo,Rose,743
+6,Minho,Red,744
+4,Setubal,Red,745
+6,Tejo,Rose,746
+5,Madeira,Rose,747
+7,Minho,Red,748
+7,Lisboa,White,749
+6,Setubal,Rose,750
+6,Beira Interior,Red,751
+6,Beira Interior,Rose,752
+7,Beira Atlantico,Red,753
+6,Terras De Cister,Rose,754
+6,Algarve,Rose,755
+8,Lisboa,Red,756
+5,Beira Atlantico,Red,757
+6,Transmontano,Red,758
+7,Dao,White,759
+6,Minho,White,760
+6,Algarve,Rose,761
+6,Beira Atlantico,White,762
+6,Dao,White,763
+5,Lisboa,White,764
+5,Algarve,Red,765
+7,Dao,Red,766
+6,Algarve,Red,767
+5,Lisboa,White,768
+5,Beira Atlantico,Red,769
+5,Alentejo,Red,770
+6,Madeira,Rose,771
+6,Minho,Rose,772
+5,Douro Valley,Rose,773
+6,Transmontano,Rose,774
+7,Algarve,White,775
+6,Minho,White,776
+6,Algarve,Red,777
+8,Lisboa,White,778
+6,Douro Valley,White,779
+7,Algarve,White,780
 6,Setubal,Red,781
-8,Lisboa,White,782
-6,Dao,White,783
-7,Setubal,Red,784
-4,Transmontano,Red,785
-6,Douro Valley,Rose,786
-6,Transmontano,Rose,787
-6,Tejo,Red,788
-6,Tejo,Rose,789
-5,Tejo,Rose,790
-7,Terras De Cister,White,791
-8,Algarve,Rose,792
-5,Alentejo,Red,793
-5,Beira Atlantico,Rose,794
-6,Terras De Cister,Rose,795
-7,Dao,Red,796
-8,Transmontano,Red,797
-7,Algarve,Rose,798
-6,Setubal,Rose,799
-8,Minho,Rose,800
-6,Madeira,White,801
-6,Minho,White,802
-5,Terras De Cister,Rose,803
-7,Beira Atlantico,Rose,804
-5,Beira Interior,Rose,805
-6,Douro Valley,Red,806
-8,Madeira,White,807
-6,Terras De Cister,White,808
-7,Transmontano,Rose,809
-5,Beira Interior,Rose,810
-5,Minho,White,811
-7,Dao,Rose,812
-7,Terras De Cister,Red,813
-6,Algarve,Rose,814
-5,Beira Interior,White,815
-5,Beira Interior,Red,816
-5,Beira Atlantico,Rose,817
-5,Lisboa,White,818
-5,Minho,Rose,819
-6,Algarve,Rose,820
-7,Lisboa,Red,821
-5,Beira Atlantico,White,822
-7,Tejo,White,823
-5,Transmontano,Rose,824
-5,Algarve,White,825
-6,Beira Interior,Rose,826
-6,Madeira,Rose,827
-5,Lisboa,Red,828
-7,Tejo,Red,829
-6,Madeira,White,830
-6,Setubal,Red,831
-5,Douro Valley,Red,832
-7,Transmontano,White,833
-6,Terras De Cister,White,834
-7,Minho,Red,835
-7,Beira Interior,Rose,836
-5,Beira Atlantico,Rose,837
-5,Douro Valley,Red,838
-7,Minho,Red,839
-6,Beira Interior,Red,840
-5,Beira Atlantico,Rose,841
-7,Douro Valley,Rose,842
-5,Douro Valley,Red,843
-7,Dao,Rose,844
-7,Douro Valley,Red,845
-6,Setubal,White,846
-5,Lisboa,Rose,847
-6,Beira Interior,Red,848
-5,Transmontano,Red,849
-5,Madeira,White,850
-5,Setubal,Rose,851
-6,Lisboa,White,852
-6,Algarve,Red,853
-5,Lisboa,Rose,854
-5,Dao,Rose,855
-6,Madeira,Red,856
-5,Lisboa,Red,857
-7,Madeira,Red,858
-6,Beira Interior,Rose,859
+8,Algarve,Rose,782
+6,Algarve,Red,783
+7,Alentejo,Red,784
+4,Madeira,White,785
+6,Minho,Rose,786
+6,Madeira,Rose,787
+6,Algarve,White,788
+6,Setubal,Rose,789
+5,Beira Atlantico,White,790
+7,Setubal,Red,791
+8,Douro Valley,Red,792
+5,Lisboa,White,793
+5,Alentejo,Rose,794
+6,Beira Interior,White,795
+7,Lisboa,Red,796
+8,Beira Interior,Rose,797
+7,Beira Interior,Red,798
+6,Dao,Red,799
+8,Alentejo,Rose,800
+6,Lisboa,Rose,801
+6,Douro Valley,Red,802
+5,Terras De Cister,Red,803
+7,Lisboa,Rose,804
+5,Douro Valley,Rose,805
+6,Beira Interior,Rose,806
+8,Beira Interior,White,807
+6,Douro Valley,White,808
+7,Setubal,Rose,809
+5,Douro Valley,Rose,810
+5,Tejo,White,811
+7,Lisboa,Rose,812
+7,Setubal,Red,813
+6,Beira Interior,White,814
+5,Douro Valley,Rose,815
+5,Minho,White,816
+5,Terras De Cister,Rose,817
+5,Beira Atlantico,Rose,818
+5,Lisboa,White,819
+6,Algarve,Red,820
+7,Transmontano,White,821
+5,Setubal,Rose,822
+7,Beira Atlantico,White,823
+5,Transmontano,White,824
+5,Algarve,Rose,825
+6,Setubal,Red,826
+6,Minho,Rose,827
+5,Terras De Cister,Rose,828
+7,Lisboa,Red,829
+6,Tejo,Red,830
+6,Tejo,Rose,831
+5,Dao,Rose,832
+7,Tejo,Red,833
+6,Beira Atlantico,Red,834
+7,Terras De Cister,White,835
+7,Douro Valley,Red,836
+5,Dao,Red,837
+5,Lisboa,Red,838
+7,Algarve,Rose,839
+6,Tejo,Red,840
+5,Beira Interior,Rose,841
+7,Beira Atlantico,Red,842
+5,Madeira,Red,843
+7,Alentejo,Red,844
+7,Beira Atlantico,White,845
+6,Algarve,Rose,846
+5,Madeira,White,847
+6,Terras De Cister,White,848
+5,Tejo,Rose,849
+5,Beira Atlantico,White,850
+5,Douro Valley,Rose,851
+6,Transmontano,Rose,852
+6,Lisboa,Red,853
+5,Dao,Rose,854
+5,Douro Valley,White,855
+6,Madeira,Rose,856
+5,Terras De Cister,Red,857
+7,Transmontano,Red,858
+6,Dao,White,859
 6,Lisboa,Rose,860
-6,Madeira,White,861
-5,Setubal,Rose,862
-5,Minho,Rose,863
-6,Beira Interior,White,864
-7,Beira Atlantico,Red,865
-7,Tejo,White,866
-6,Terras De Cister,Rose,867
-6,Minho,White,868
-5,Minho,Red,869
-6,Transmontano,Rose,870
-5,Madeira,Rose,871
-6,Madeira,Rose,872
-5,Terras De Cister,Rose,873
-7,Tejo,White,874
-6,Dao,Red,875
-5,Tejo,Rose,876
-6,Terras De Cister,Rose,877
-5,Tejo,Red,878
-5,Douro Valley,White,879
-5,Lisboa,Red,880
-6,Beira Atlantico,Red,881
-6,Beira Interior,Rose,882
-6,Madeira,Red,883
-6,Douro Valley,White,884
-7,Transmontano,White,885
-6,Setubal,Rose,886
-4,Beira Interior,White,887
-5,Dao,Red,888
-6,Beira Interior,Rose,889
-6,Tejo,Rose,890
-5,Transmontano,Red,891
-6,Minho,White,892
-6,Madeira,Red,893
-6,Madeira,White,894
-6,Douro Valley,Red,895
-4,Algarve,Red,896
-4,Douro Valley,White,897
-6,Douro Valley,Red,898
-7,Alentejo,White,899
-6,Beira Interior,Red,900
-5,Algarve,White,901
-7,Dao,Rose,902
-7,Algarve,Red,903
-5,Terras De Cister,White,904
-5,Minho,White,905
-5,Beira Interior,Red,906
+6,Beira Atlantico,Rose,861
+5,Beira Interior,Red,862
+5,Algarve,Red,863
+6,Tejo,Rose,864
+7,Dao,Rose,865
+7,Alentejo,White,866
+6,Setubal,Red,867
+6,Douro Valley,White,868
+5,Alentejo,White,869
+6,Dao,White,870
+5,Dao,White,871
+6,Dao,Red,872
+5,Algarve,Red,873
+7,Transmontano,White,874
+6,Beira Interior,Red,875
+5,Beira Interior,White,876
+6,Minho,Rose,877
+5,Transmontano,Red,878
+5,Alentejo,Red,879
+5,Setubal,Red,880
+6,Algarve,White,881
+6,Douro Valley,White,882
+6,Lisboa,Rose,883
+6,Dao,Red,884
+7,Setubal,Rose,885
+6,Algarve,White,886
+4,Transmontano,Rose,887
+5,Beira Interior,Red,888
+6,Alentejo,Red,889
+6,Transmontano,Rose,890
+5,Setubal,Red,891
+6,Dao,White,892
+6,Beira Interior,Rose,893
+6,Algarve,Red,894
+6,Beira Atlantico,Rose,895
+4,Tejo,White,896
+4,Tejo,Red,897
+6,Setubal,White,898
+7,Beira Interior,Rose,899
+6,Minho,Red,900
+5,Madeira,White,901
+7,Alentejo,Red,902
+7,Alentejo,White,903
+5,Dao,Red,904
+5,Douro Valley,Rose,905
+5,Setubal,Red,906
 8,Minho,Rose,907
-5,Beira Atlantico,Rose,908
-6,Douro Valley,White,909
-5,Setubal,Rose,910
-5,Douro Valley,Red,911
+5,Dao,Rose,908
+6,Tejo,White,909
+5,Alentejo,White,910
+5,Terras De Cister,Rose,911
 7,Douro Valley,Red,912
-5,Dao,Red,913
-6,Beira Atlantico,Rose,914
-6,Terras De Cister,Red,915
-5,Tejo,Red,916
-5,Alentejo,Red,917
-6,Minho,Red,918
-6,Setubal,Rose,919
-5,Transmontano,White,920
-6,Tejo,Rose,921
-8,Alentejo,Rose,922
-6,Algarve,Rose,923
-6,Setubal,Red,924
-7,Beira Interior,White,925
-6,Minho,Rose,926
-6,Setubal,White,927
-6,Lisboa,Rose,928
-5,Lisboa,Rose,929
-6,Lisboa,Red,930
-7,Lisboa,Rose,931
-6,Minho,White,932
-7,Beira Atlantico,Rose,933
-6,Transmontano,Rose,934
-6,Dao,Rose,935
-6,Alentejo,Rose,936
-6,Tejo,Rose,937
-6,Madeira,Red,938
-6,Beira Interior,Red,939
-6,Transmontano,White,940
-6,Lisboa,Red,941
-7,Beira Interior,Red,942
-5,Terras De Cister,Red,943
-6,Minho,White,944
-6,Algarve,White,945
-7,Beira Atlantico,White,946
-6,Setubal,Rose,947
-6,Minho,Rose,948
-7,Algarve,White,949
-7,Madeira,Red,950
-6,Alentejo,Rose,951
-6,Minho,Red,952
-6,Minho,Red,953
-5,Algarve,Rose,954
-5,Transmontano,White,955
-5,Tejo,Red,956
-6,Beira Atlantico,Rose,957
-6,Transmontano,Rose,958
-6,Algarve,Red,959
-7,Minho,Rose,960
-6,Madeira,Rose,961
-6,Algarve,White,962
-6,Tejo,Red,963
-6,Douro Valley,Red,964
-6,Dao,Rose,965
-6,Setubal,Rose,966
-5,Dao,Red,967
-7,Minho,White,968
-5,Alentejo,White,969
-5,Dao,Red,970
-6,Madeira,White,971
-5,Lisboa,Rose,972
-6,Transmontano,White,973
+5,Lisboa,Rose,913
+6,Madeira,White,914
+6,Minho,Rose,915
+5,Beira Atlantico,Red,916
+5,Tejo,White,917
+6,Lisboa,Rose,918
+6,Minho,Red,919
+5,Madeira,White,920
+6,Algarve,White,921
+8,Transmontano,Rose,922
+6,Beira Interior,Rose,923
+6,Lisboa,White,924
+7,Transmontano,Red,925
+6,Terras De Cister,White,926
+6,Dao,White,927
+6,Setubal,Red,928
+5,Madeira,Red,929
+6,Madeira,Red,930
+7,Madeira,Rose,931
+6,Dao,Rose,932
+7,Transmontano,White,933
+6,Tejo,Red,934
+6,Beira Interior,Rose,936
+6,Beira Interior,Rose,937
+6,Lisboa,Red,938
+6,Dao,Red,939
+6,Douro Valley,Rose,940
+6,Algarve,White,941
+7,Transmontano,Rose,942
+5,Terras De Cister,White,943
+6,Terras De Cister,White,944
+6,Beira Atlantico,Red,945
+7,Dao,White,946
+6,Douro Valley,Red,947
+6,Tejo,Rose,948
+7,Tejo,White,949
+7,Transmontano,Red,950
+6,Alentejo,Red,951
+6,Beira Atlantico,White,952
+6,Beira Interior,Red,953
+5,Transmontano,White,954
+5,Setubal,White,955
+5,Beira Atlantico,Rose,956
+6,Lisboa,Rose,957
+6,Tejo,White,958
+6,Transmontano,Red,959
+7,Setubal,White,960
+6,Lisboa,White,961
+6,Setubal,Red,962
+6,Beira Atlantico,Rose,963
+6,Algarve,Rose,964
+6,Transmontano,Red,965
+6,Tejo,White,966
+5,Minho,White,967
+7,Terras De Cister,Rose,968
+5,Terras De Cister,Rose,969
+5,Minho,Rose,970
+6,Douro Valley,Rose,971
+5,Douro Valley,Rose,972
+6,Douro Valley,Red,973
 5,Algarve,Red,974
-6,Beira Atlantico,Rose,975
-5,Minho,Rose,976
-7,Lisboa,Rose,977
-5,Dao,Red,978
-6,Beira Interior,Red,979
-6,Douro Valley,White,980
-5,Beira Interior,White,981
-5,Douro Valley,White,982
-6,Madeira,Rose,983
-7,Algarve,Rose,984
-5,Transmontano,Red,985
-5,Lisboa,Red,986
-6,Tejo,Red,987
-4,Minho,Red,988
-8,Beira Interior,White,989
-7,Madeira,Red,990
-6,Dao,Red,991
-6,Alentejo,Red,992
-5,Douro Valley,Rose,993
-4,Alentejo,White,994
-6,Tejo,White,995
-7,Terras De Cister,Red,996
-5,Minho,White,997
-7,Algarve,Rose,998
-5,Douro Valley,Red,999
-6,Transmontano,White,1000
-6,Tejo,Rose,1001
-7,Beira Atlantico,Rose,1002
-6,Tejo,Rose,1003
-6,Dao,Red,1004
-6,Algarve,White,1005
-6,Beira Interior,White,1006
-5,Beira Interior,Red,1007
-5,Beira Atlantico,White,1008
-8,Dao,Red,1009
-6,Douro Valley,White,1010
-5,Beira Atlantico,Red,1011
-6,Transmontano,Rose,1012
-7,Tejo,Rose,1013
-6,Dao,Rose,1014
-7,Algarve,Rose,1015
-5,Lisboa,Red,1016
-6,Lisboa,White,1017
-8,Terras De Cister,White,1018
-5,Transmontano,Red,1019
-6,Beira Interior,Red,1020
-6,Minho,Red,1021
-6,Dao,Red,1022
-5,Tejo,White,1023
-6,Terras De Cister,Rose,1024
-5,Algarve,White,1025
-6,Terras De Cister,Red,1026
-5,Alentejo,Rose,1027
-6,Douro Valley,Rose,1028
-6,Algarve,Red,1029
-6,Lisboa,Red,1030
-5,Alentejo,Rose,1031
-5,Madeira,White,1032
-6,Alentejo,White,1033
-5,Madeira,Red,1034
-7,Tejo,White,1035
-6,Beira Atlantico,Red,1036
-5,Algarve,White,1037
-6,Transmontano,Rose,1038
-7,Tejo,Red,1039
-6,Transmontano,Red,1040
-7,Lisboa,Rose,1041
-5,Dao,White,1042
-4,Setubal,White,1043
-7,Lisboa,White,1044
-6,Setubal,Red,1045
-6,Setubal,Red,1046
-5,Beira Interior,Red,1047
-7,Douro Valley,Red,1048
-6,Beira Atlantico,White,1049
-4,Setubal,Rose,1050
-8,Tejo,White,1051
-5,Madeira,Red,1052
-5,Lisboa,Red,1053
-8,Tejo,Rose,1054
-6,Terras De Cister,Rose,1055
-5,Algarve,Rose,1056
-7,Tejo,Rose,1057
-5,Terras De Cister,Rose,1058
-5,Alentejo,Red,1059
-7,Beira Interior,Red,1060
-5,Algarve,Red,1061
-7,Beira Interior,White,1062
-7,Tejo,White,1063
-7,Beira Atlantico,Red,1064
-6,Transmontano,Red,1065
-5,Lisboa,White,1066
-8,Dao,White,1067
-6,Beira Atlantico,White,1068
-6,Beira Atlantico,Red,1069
-7,Setubal,Rose,1070
-6,Minho,Red,1071
-5,Transmontano,White,1072
-6,Alentejo,Red,1073
-7,Beira Interior,Red,1074
-5,Dao,Red,1075
-7,Douro Valley,Red,1076
-5,Terras De Cister,Rose,1077
-5,Setubal,Rose,1078
-5,Tejo,Rose,1079
-6,Tejo,White,1080
-8,Douro Valley,Rose,1081
-7,Beira Interior,Red,1082
-5,Minho,Red,1083
-6,Beira Interior,Red,1084
-6,Douro Valley,Rose,1085
-6,Dao,Rose,1086
-6,Beira Atlantico,Red,1087
-7,Setubal,White,1088
-8,Beira Atlantico,Rose,1089
-8,Setubal,Red,1090
-7,Beira Interior,White,1091
-6,Madeira,Red,1092
-5,Minho,Rose,1093
-7,Transmontano,Rose,1094
-6,Dao,Red,1095
-6,Lisboa,Rose,1096
-7,Alentejo,Red,1097
-6,Madeira,White,1098
-6,Beira Atlantico,Rose,1099
-5,Madeira,Red,1100
-5,Beira Interior,Red,1101
-7,Alentejo,White,1102
-5,Transmontano,Red,1103
-6,Madeira,Red,1104
-5,Terras De Cister,Red,1105
-4,Minho,White,1106
-7,Madeira,Rose,1107
-5,Algarve,Red,1108
-6,Beira Atlantico,Red,1109
-5,Madeira,Red,1110
-5,Alentejo,White,1111
-8,Lisboa,Rose,1112
-5,Transmontano,Red,1113
-6,Alentejo,Rose,1114
-6,Beira Atlantico,Rose,1115
-7,Tejo,Red,1116
-6,Tejo,White,1117
-6,Alentejo,White,1118
-5,Beira Atlantico,Rose,1119
-7,Terras De Cister,Red,1120
-6,Beira Atlantico,White,1121
-5,Transmontano,Rose,1122
-6,Lisboa,Rose,1123
-7,Dao,White,1124
-6,Beira Atlantico,Rose,1125
-4,Minho,White,1126
-6,Terras De Cister,White,1127
-5,Terras De Cister,White,1128
-6,Minho,Rose,1129
-7,Beira Interior,White,1130
-6,Alentejo,White,1131
-6,Lisboa,Red,1132
-5,Minho,Red,1133
-7,Terras De Cister,White,1134
-5,Dao,Rose,1135
-6,Tejo,Red,1136
-6,Minho,Rose,1137
-7,Lisboa,Red,1138
-6,Terras De Cister,Red,1139
-7,Setubal,Red,1140
-7,Algarve,White,1141
-6,Alentejo,Rose,1142
-7,Setubal,White,1143
-5,Beira Interior,Red,1144
-8,Douro Valley,Rose,1145
-6,Minho,Red,1146
-6,Terras De Cister,Red,1147
-5,Madeira,Rose,1148
-5,Madeira,White,1149
-6,Transmontano,Red,1150
-6,Minho,White,1151
+6,Douro Valley,White,975
+5,Setubal,Red,976
+7,Beira Atlantico,Rose,977
+5,Alentejo,Red,978
+6,Madeira,Red,979
+6,Alentejo,White,980
+5,Terras De Cister,White,981
+5,Transmontano,Rose,982
+6,Dao,Rose,983
+7,Alentejo,White,984
+5,Madeira,White,985
+5,Setubal,Red,986
+6,Douro Valley,White,987
+4,Dao,White,988
+8,Lisboa,White,989
+7,Transmontano,Red,990
+6,Transmontano,Red,991
+6,Terras De Cister,Rose,992
+5,Madeira,White,993
+4,Tejo,White,994
+6,Minho,White,995
+7,Tejo,White,996
+5,Minho,Red,997
+7,Lisboa,Red,998
+5,Transmontano,Red,999
+6,Alentejo,Rose,1000
+6,Lisboa,White,1001
+7,Minho,Red,1002
+6,Algarve,Red,1003
+6,Lisboa,Red,1004
+6,Beira Interior,White,1005
+6,Tejo,White,1006
+5,Terras De Cister,Rose,1007
+5,Madeira,Red,1008
+8,Lisboa,White,1009
+6,Madeira,White,1010
+5,Douro Valley,Rose,1011
+6,Alentejo,Rose,1012
+7,Minho,Red,1013
+6,Minho,Red,1014
+7,Beira Interior,Red,1015
+5,Dao,Red,1016
+6,Madeira,Rose,1017
+8,Dao,White,1018
+5,Terras De Cister,Red,1019
+6,Beira Interior,Rose,1020
+6,Algarve,Rose,1021
+6,Douro Valley,White,1022
+5,Beira Atlantico,Rose,1023
+6,Tejo,Rose,1024
+5,Tejo,Rose,1025
+6,Minho,White,1026
+5,Dao,Rose,1027
+6,Beira Atlantico,Rose,1028
+6,Transmontano,White,1029
+6,Terras De Cister,White,1030
+5,Setubal,Rose,1031
+5,Douro Valley,Red,1032
+6,Dao,Red,1033
+5,Douro Valley,White,1034
+7,Douro Valley,Rose,1035
+6,Terras De Cister,Red,1036
+5,Beira Interior,Red,1037
+6,Beira Atlantico,Red,1038
+7,Dao,Rose,1039
+6,Lisboa,White,1040
+7,Madeira,Rose,1041
+5,Douro Valley,Rose,1042
+4,Alentejo,Rose,1043
+7,Douro Valley,White,1044
+6,Terras De Cister,Red,1045
+6,Terras De Cister,Rose,1046
+5,Dao,Rose,1047
+7,Alentejo,White,1048
+6,Lisboa,Red,1049
+4,Dao,White,1050
+8,Madeira,Rose,1051
+5,Dao,Red,1052
+5,Dao,Rose,1053
+8,Dao,Red,1054
+6,Transmontano,Rose,1055
+5,Algarve,Red,1056
+7,Dao,Red,1057
+5,Minho,White,1058
+5,Beira Atlantico,White,1059
+7,Madeira,White,1060
+5,Douro Valley,White,1061
+7,Alentejo,Rose,1062
+7,Alentejo,Red,1063
+7,Tejo,White,1064
+6,Beira Interior,Red,1065
+5,Madeira,Rose,1066
+8,Dao,Rose,1067
+6,Alentejo,Red,1068
+6,Terras De Cister,Rose,1069
+7,Tejo,Red,1070
+6,Setubal,Rose,1071
+5,Madeira,Red,1072
+6,Beira Atlantico,White,1073
+7,Terras De Cister,Red,1074
+5,Lisboa,Red,1075
+7,Terras De Cister,Rose,1076
+5,Beira Interior,White,1077
+5,Alentejo,White,1078
+5,Transmontano,Red,1079
+6,Dao,Rose,1080
+8,Beira Atlantico,Rose,1081
+7,Algarve,Red,1082
+5,Lisboa,Red,1083
+6,Lisboa,Rose,1084
+6,Douro Valley,Red,1085
+6,Minho,Rose,1086
+6,Transmontano,Rose,1087
+7,Algarve,Red,1088
+8,Alentejo,Rose,1089
+8,Setubal,White,1090
+7,Dao,White,1091
+6,Transmontano,Red,1092
+5,Lisboa,White,1093
+7,Transmontano,White,1094
+6,Beira Atlantico,Rose,1095
+6,Lisboa,Red,1096
+7,Dao,Red,1097
+6,Transmontano,Red,1099
+5,Dao,White,1100
+5,Lisboa,Red,1101
+7,Douro Valley,Red,1102
+5,Alentejo,Red,1103
+6,Beira Atlantico,Red,1104
+5,Tejo,White,1105
+4,Dao,Rose,1106
+7,Terras De Cister,Rose,1107
+5,Terras De Cister,White,1108
+6,Madeira,White,1109
+5,Algarve,White,1110
+5,Tejo,White,1111
+8,Setubal,Red,1112
+5,Setubal,Red,1113
+6,Terras De Cister,Red,1114
+6,Tejo,Red,1115
+7,Douro Valley,Red,1116
+6,Minho,White,1117
+6,Beira Atlantico,Rose,1118
+5,Transmontano,Rose,1119
+7,Algarve,Rose,1120
+6,Beira Interior,White,1121
+5,Beira Atlantico,Red,1122
+6,Alentejo,Red,1123
+7,Douro Valley,White,1124
+6,Dao,White,1125
+4,Minho,Red,1126
+6,Alentejo,Rose,1127
+5,Lisboa,Rose,1128
+6,Algarve,Red,1129
+7,Minho,White,1130
+6,Algarve,Red,1131
+6,Tejo,Rose,1132
+5,Lisboa,Red,1133
+7,Terras De Cister,Rose,1134
+5,Transmontano,White,1135
+6,Setubal,Rose,1136
+6,Beira Interior,Rose,1137
+7,Transmontano,Red,1138
+6,Transmontano,Rose,1139
+7,Beira Interior,Red,1140
+7,Beira Atlantico,Rose,1141
+6,Tejo,Rose,1142
+7,Tejo,Rose,1143
+5,Lisboa,Red,1144
+8,Terras De Cister,Red,1145
+6,Dao,Red,1146
+6,Minho,Red,1147
+5,Setubal,White,1148
+5,Minho,White,1149
+6,Setubal,White,1150
+6,Dao,White,1151
 6,Minho,Rose,1152
-6,Alentejo,Red,1153
-5,Transmontano,Rose,1154
-6,Setubal,White,1155
-5,Terras De Cister,Rose,1156
-6,Lisboa,White,1157
-4,Minho,Red,1158
-6,Algarve,White,1159
-6,Douro Valley,White,1160
-5,Lisboa,Red,1161
-7,Terras De Cister,White,1162
-7,Dao,White,1163
-6,Douro Valley,Rose,1164
-6,Lisboa,Rose,1165
-6,Tejo,Red,1166
-6,Tejo,Red,1167
-6,Douro Valley,Rose,1168
-5,Beira Atlantico,White,1169
-5,Lisboa,Rose,1170
-6,Madeira,White,1171
-5,Transmontano,White,1172
-5,Terras De Cister,Rose,1173
-5,Setubal,Red,1174
-6,Terras De Cister,Rose,1175
-6,Madeira,Rose,1176
-7,Setubal,Rose,1177
-6,Tejo,Red,1178
-7,Beira Atlantico,Rose,1179
-7,Setubal,White,1180
-6,Transmontano,Rose,1181
-8,Alentejo,Red,1182
-6,Setubal,Rose,1183
-5,Lisboa,Rose,1184
-6,Transmontano,White,1185
-6,Terras De Cister,White,1186
-6,Lisboa,White,1187
-7,Douro Valley,Rose,1188
-7,Transmontano,Red,1189
-7,Setubal,Rose,1190
-7,Tejo,Rose,1191
-5,Beira Atlantico,White,1192
-7,Douro Valley,White,1193
-7,Tejo,Red,1194
-7,Beira Interior,Rose,1195
-7,Madeira,White,1196
+6,Tejo,Red,1153
+5,Lisboa,Rose,1154
+6,Dao,Red,1155
+5,Algarve,White,1156
+6,Minho,Rose,1157
+4,Setubal,Red,1158
+6,Transmontano,White,1159
+6,Transmontano,Rose,1160
+5,Beira Interior,Red,1161
+7,Setubal,White,1162
+7,Madeira,White,1163
+6,Terras De Cister,Red,1164
+6,Alentejo,Rose,1165
+6,Madeira,White,1166
+6,Tejo,Rose,1167
+6,Terras De Cister,White,1168
+5,Lisboa,White,1169
+5,Minho,White,1170
+6,Beira Atlantico,Rose,1171
+5,Minho,Rose,1172
+5,Transmontano,Red,1173
+6,Dao,Red,1175
+6,Transmontano,Red,1176
+7,Tejo,Red,1177
+6,Tejo,White,1178
+7,Algarve,Rose,1179
+7,Lisboa,White,1180
+6,Setubal,White,1181
+8,Madeira,White,1182
+6,Terras De Cister,Red,1183
+5,Transmontano,Rose,1184
+6,Douro Valley,Rose,1185
+6,Transmontano,Red,1186
+6,Minho,White,1187
+7,Dao,Red,1188
+7,Alentejo,White,1189
+7,Lisboa,White,1190
+7,Tejo,Red,1191
+5,Transmontano,Rose,1192
+7,Setubal,White,1193
+7,Beira Interior,White,1194
+7,Madeira,Red,1195
+7,Beira Interior,Red,1196
 6,Dao,Rose,1197
-7,Madeira,White,1198
-5,Algarve,White,1199
-6,Beira Atlantico,White,1200
-6,Transmontano,White,1201
-6,Minho,White,1202
-6,Beira Interior,Rose,1203
-5,Madeira,Red,1204
-5,Douro Valley,White,1205
-6,Minho,Rose,1206
-7,Douro Valley,Red,1207
-7,Madeira,Rose,1208
-5,Transmontano,Rose,1209
-6,Lisboa,Red,1210
-6,Tejo,Rose,1211
-5,Algarve,White,1212
-6,Alentejo,White,1213
-5,Beira Atlantico,Red,1214
-5,Terras De Cister,Rose,1215
-6,Minho,Red,1216
-6,Minho,White,1217
-6,Douro Valley,White,1218
-7,Madeira,Red,1219
-6,Beira Atlantico,Rose,1220
-5,Douro Valley,Rose,1221
-6,Beira Interior,White,1222
-7,Tejo,Red,1223
-6,Beira Atlantico,Red,1224
-6,Beira Atlantico,Rose,1225
-6,Terras De Cister,Red,1226
-6,Setubal,Red,1227
-6,Minho,Rose,1228
-6,Minho,Rose,1229
-6,Setubal,Red,1230
-6,Alentejo,White,1231
-7,Terras De Cister,Red,1232
-5,Beira Atlantico,Rose,1233
-5,Dao,Rose,1234
-5,Dao,White,1235
-6,Douro Valley,White,1236
-7,Alentejo,Red,1237
-5,Terras De Cister,Rose,1238
-6,Lisboa,Red,1239
-5,Douro Valley,Rose,1240
-6,Douro Valley,Rose,1241
-8,Douro Valley,White,1242
-5,Minho,Red,1243
-7,Terras De Cister,White,1244
-6,Tejo,Rose,1245
-6,Beira Atlantico,Rose,1246
-6,Algarve,White,1247
-6,Minho,Rose,1248
-6,Minho,Rose,1249
-6,Setubal,Rose,1250
-7,Dao,Rose,1251
-7,Setubal,Rose,1252
-6,Dao,Rose,1253
-7,Transmontano,Rose,1254
-6,Minho,Rose,1255
-7,Madeira,White,1256
-6,Madeira,White,1257
-6,Terras De Cister,Red,1258
-5,Terras De Cister,Rose,1259
-5,Dao,Red,1260
-5,Dao,White,1261
-5,Tejo,Rose,1262
-6,Douro Valley,Rose,1263
-7,Douro Valley,White,1264
-7,Douro Valley,Rose,1265
-6,Terras De Cister,Red,1266
-5,Lisboa,Rose,1267
-5,Dao,Red,1268
-5,Beira Interior,White,1269
-7,Transmontano,Red,1270
-6,Tejo,White,1271
-6,Alentejo,Rose,1272
-6,Minho,White,1273
-5,Madeira,Red,1274
-4,Terras De Cister,Red,1275
-8,Minho,White,1276
-4,Terras De Cister,Rose,1277
-6,Algarve,Rose,1278
-6,Madeira,Rose,1279
-5,Setubal,White,1280
-6,Beira Atlantico,Rose,1281
-6,Minho,Rose,1282
-4,Setubal,Rose,1283
-8,Alentejo,White,1284
-7,Beira Interior,Rose,1285
-6,Lisboa,Red,1286
-6,Beira Atlantico,Rose,1287
-5,Dao,Rose,1288
-5,Madeira,White,1289
-5,Dao,Rose,1290
-6,Tejo,Rose,1291
-8,Douro Valley,White,1292
-6,Tejo,Red,1293
-5,Setubal,White,1294
-7,Setubal,Red,1295
-5,Alentejo,White,1296
-5,Terras De Cister,Red,1297
-7,Beira Atlantico,White,1298
-6,Alentejo,Red,1299
-7,Tejo,White,1300
-7,Alentejo,Rose,1301
-5,Algarve,White,1302
+7,Dao,Red,1198
+5,Lisboa,Red,1199
+6,Dao,Red,1200
+6,Beira Atlantico,Red,1201
+6,Tejo,Rose,1202
+6,Setubal,Red,1203
+5,Terras De Cister,Rose,1204
+5,Beira Interior,Rose,1205
+6,Minho,White,1206
+7,Minho,White,1207
+7,Terras De Cister,Red,1208
+5,Lisboa,Red,1209
+6,Douro Valley,Red,1210
+6,Douro Valley,Rose,1211
+5,Minho,Red,1212
+6,Douro Valley,White,1213
+5,Madeira,Red,1214
+5,Beira Atlantico,White,1215
+6,Tejo,Rose,1216
+6,Dao,White,1217
+6,Minho,White,1218
+7,Transmontano,Rose,1219
+6,Lisboa,White,1220
+5,Douro Valley,Red,1221
+6,Setubal,White,1222
+7,Alentejo,Red,1223
+6,Terras De Cister,White,1224
+6,Lisboa,Rose,1225
+6,Algarve,Rose,1226
+6,Alentejo,White,1227
+6,Madeira,White,1228
+6,Madeira,White,1229
+6,Alentejo,Rose,1230
+6,Beira Interior,Red,1231
+7,Setubal,Rose,1232
+5,Terras De Cister,Rose,1233
+5,Alentejo,White,1234
+5,Transmontano,Red,1235
+6,Tejo,White,1236
+7,Algarve,Rose,1237
+5,Transmontano,Rose,1238
+6,Beira Interior,Red,1239
+5,Minho,Rose,1240
+6,Terras De Cister,White,1241
+8,Algarve,White,1242
+5,Tejo,Red,1243
+7,Beira Interior,Rose,1244
+6,Minho,Rose,1245
+6,Minho,White,1246
+6,Transmontano,White,1247
+6,Lisboa,White,1248
+6,Tejo,Red,1249
+6,Minho,Rose,1250
+7,Beira Atlantico,Rose,1251
+7,Minho,Rose,1252
+6,Beira Atlantico,White,1253
+7,Transmontano,White,1254
+6,Dao,Rose,1255
+7,Setubal,Rose,1256
+6,Lisboa,Red,1257
+6,Madeira,Red,1258
+5,Minho,White,1259
+5,Transmontano,White,1260
+5,Madeira,Rose,1261
+5,Algarve,White,1262
+6,Setubal,White,1263
+7,Beira Atlantico,White,1264
+7,Setubal,White,1265
+5,Transmontano,Rose,1267
+5,Algarve,Red,1268
+5,Madeira,Red,1269
+7,Setubal,Rose,1270
+6,Alentejo,Rose,1271
+6,Tejo,Red,1272
+6,Setubal,White,1273
+5,Tejo,Red,1274
+4,Beira Interior,White,1275
+8,Alentejo,Red,1276
+4,Algarve,Red,1277
+6,Beira Atlantico,Rose,1278
+6,Madeira,White,1279
+5,Setubal,Red,1280
+6,Madeira,White,1281
+6,Madeira,Red,1282
+4,Lisboa,Red,1283
+8,Alentejo,Rose,1284
+7,Dao,White,1285
+6,Tejo,White,1286
+6,Algarve,Red,1287
+5,Terras De Cister,Red,1288
+5,Beira Atlantico,Red,1289
+5,Douro Valley,Rose,1290
+6,Dao,Red,1291
+8,Dao,Rose,1292
+6,Transmontano,Red,1293
+5,Minho,White,1294
+7,Alentejo,White,1295
+5,Setubal,White,1296
+5,Transmontano,White,1297
+7,Minho,Red,1298
+6,Madeira,Rose,1299
+7,Alentejo,White,1300
+7,Terras De Cister,Rose,1301
+5,Dao,Red,1302
 6,Terras De Cister,Rose,1303
-7,Madeira,White,1304
-7,Dao,White,1305
-7,Transmontano,Red,1306
-6,Beira Atlantico,White,1307
-6,Dao,Red,1308
-7,Tejo,Rose,1309
-5,Beira Interior,Red,1310
-6,Transmontano,White,1311
-7,Lisboa,Rose,1312
-6,Beira Atlantico,Red,1313
-6,Madeira,Red,1314
-5,Dao,Rose,1315
-7,Tejo,White,1316
-7,Setubal,White,1317
-5,Algarve,White,1318
-3,Minho,Red,1319
-6,Setubal,Red,1320
-6,Madeira,Red,1321
-5,Setubal,Rose,1322
-7,Tejo,Red,1323
-7,Minho,White,1324
-4,Alentejo,Red,1325
-6,Beira Atlantico,White,1326
-7,Minho,Red,1327
-6,Beira Atlantico,Red,1328
-7,Terras De Cister,White,1329
-6,Douro Valley,Rose,1330
-6,Beira Atlantico,White,1331
-6,Beira Interior,Red,1332
-5,Transmontano,Red,1333
-6,Lisboa,Rose,1334
-6,Tejo,Rose,1335
-6,Tejo,White,1336
-5,Minho,White,1337
-6,Tejo,Red,1338
-6,Tejo,White,1339
-7,Algarve,Red,1340
-6,Dao,Rose,1341
-5,Beira Atlantico,Rose,1342
-5,Dao,Red,1343
-7,Tejo,White,1344
-6,Setubal,Red,1345
-5,Minho,White,1346
-7,Beira Atlantico,White,1347
-6,Lisboa,Rose,1348
-5,Terras De Cister,White,1349
-7,Tejo,White,1350
-5,Beira Atlantico,Red,1351
-5,Madeira,Rose,1352
-6,Algarve,White,1353
-6,Terras De Cister,White,1354
+7,Dao,Red,1304
+7,Setubal,White,1305
+7,Dao,White,1306
+6,Terras De Cister,White,1307
+6,Terras De Cister,Red,1308
+7,Setubal,Rose,1309
+5,Beira Interior,White,1310
+6,Dao,White,1311
+7,Terras De Cister,Red,1312
+6,Alentejo,Rose,1313
+6,Alentejo,Red,1314
+5,Tejo,Rose,1315
+7,Beira Interior,Red,1316
+7,Dao,Red,1317
+5,Alentejo,Rose,1318
+3,Lisboa,Red,1319
+6,Lisboa,Red,1320
+6,Minho,White,1321
+5,Beira Interior,Red,1322
+7,Madeira,Red,1323
+7,Douro Valley,Red,1324
+4,Algarve,White,1325
+6,Douro Valley,White,1326
+7,Madeira,Red,1327
+6,Douro Valley,White,1328
+7,Madeira,White,1329
+6,Setubal,Red,1330
+6,Setubal,Red,1331
+6,Madeira,White,1332
+5,Dao,White,1333
+6,Alentejo,White,1334
+6,Algarve,Red,1335
+6,Transmontano,Rose,1336
+5,Tejo,Rose,1337
+6,Minho,White,1338
+6,Dao,Rose,1339
+7,Beira Interior,White,1340
+6,Beira Atlantico,Rose,1341
+5,Beira Interior,Red,1342
+5,Minho,White,1343
+7,Terras De Cister,Rose,1344
+6,Dao,Rose,1345
+5,Dao,Red,1346
+7,Beira Atlantico,Rose,1347
+6,Terras De Cister,White,1348
+5,Algarve,Rose,1349
+7,Lisboa,White,1350
+5,Madeira,Red,1351
+5,Minho,Rose,1352
+6,Algarve,Red,1353
+6,Setubal,Red,1354
 6,Alentejo,Red,1355
-6,Douro Valley,White,1356
-6,Minho,Red,1357
-6,Transmontano,Rose,1358
-6,Alentejo,Rose,1359
-7,Terras De Cister,White,1360
-6,Transmontano,Red,1361
-5,Algarve,White,1362
-7,Beira Atlantico,Red,1363
-5,Lisboa,White,1364
-5,Beira Atlantico,Red,1365
-5,Transmontano,Red,1366
-6,Tejo,Rose,1367
-5,Tejo,Rose,1368
-5,Terras De Cister,Rose,1369
-6,Terras De Cister,White,1370
-5,Setubal,Rose,1371
-6,Alentejo,Red,1372
-6,Madeira,Red,1373
-5,Algarve,Red,1374
-6,Beira Atlantico,Rose,1375
-7,Beira Atlantico,Red,1376
-6,Alentejo,Red,1377
-5,Beira Atlantico,Red,1378
-7,Beira Atlantico,Rose,1379
-8,Setubal,Red,1380
-5,Beira Atlantico,Red,1381
-7,Dao,Rose,1382
-6,Madeira,Red,1383
-6,Douro Valley,White,1384
-6,Beira Atlantico,Rose,1385
-6,Beira Interior,Red,1386
-6,Douro Valley,White,1387
-7,Beira Atlantico,Red,1388
-6,Beira Interior,White,1389
-6,Tejo,White,1390
-6,Douro Valley,Rose,1391
-7,Setubal,White,1392
-6,Dao,White,1393
-5,Madeira,Rose,1394
-5,Setubal,Red,1395
-6,Tejo,Rose,1396
-6,Setubal,Red,1397
-7,Algarve,Rose,1398
-6,Beira Atlantico,Red,1399
-6,Madeira,Rose,1400
-6,Transmontano,Rose,1401
-5,Douro Valley,White,1402
-6,Terras De Cister,White,1403
-6,Douro Valley,Red,1404
-6,Transmontano,Red,1405
-6,Beira Atlantico,Red,1406
+6,Setubal,Rose,1356
+6,Alentejo,White,1357
+6,Lisboa,Rose,1358
+6,Setubal,Red,1359
+7,Setubal,Rose,1360
+6,Transmontano,White,1361
+5,Beira Atlantico,Rose,1362
+7,Madeira,White,1363
+5,Dao,Rose,1364
+5,Lisboa,Rose,1365
+5,Tejo,Rose,1366
+6,Setubal,Rose,1367
+5,Madeira,White,1368
+5,Madeira,White,1369
+6,Beira Atlantico,White,1370
+5,Tejo,White,1371
+6,Beira Atlantico,White,1372
+6,Setubal,Red,1373
+5,Beira Interior,Red,1374
+6,Terras De Cister,Red,1375
+7,Madeira,White,1376
+5,Beira Interior,Rose,1378
+7,Transmontano,White,1379
+8,Beira Interior,Red,1380
+5,Madeira,Red,1381
+7,Beira Interior,White,1382
+6,Beira Atlantico,Rose,1383
+6,Minho,Rose,1384
+6,Transmontano,Red,1385
+6,Madeira,Red,1386
+6,Dao,Rose,1387
+7,Madeira,Rose,1388
+6,Beira Atlantico,Rose,1389
+6,Minho,Rose,1390
+6,Terras De Cister,Rose,1391
+7,Algarve,White,1392
+6,Algarve,Rose,1393
+5,Beira Interior,Red,1394
+5,Lisboa,White,1395
+6,Setubal,Rose,1396
+6,Alentejo,Rose,1397
+7,Beira Interior,White,1398
+6,Minho,Rose,1399
+6,Beira Interior,Rose,1400
+6,Setubal,Rose,1401
+5,Lisboa,Rose,1402
+6,Setubal,White,1403
+6,Dao,White,1404
+6,Lisboa,Red,1405
+6,Transmontano,Rose,1406
 5,Algarve,Rose,1407
-5,Setubal,Rose,1408
-6,Terras De Cister,Rose,1409
-7,Madeira,Rose,1410
-6,Algarve,Red,1411
-6,Tejo,Red,1412
-6,Madeira,White,1413
-6,Beira Interior,Red,1414
-5,Tejo,Rose,1415
-6,Transmontano,Rose,1416
-7,Minho,Red,1417
-5,Setubal,Rose,1418
-7,Minho,Red,1419
-5,Madeira,Red,1420
-5,Transmontano,Red,1421
-6,Terras De Cister,Red,1422
-5,Dao,Red,1423
-7,Transmontano,Red,1424
-6,Madeira,Rose,1425
-7,Transmontano,White,1426
-7,Alentejo,Red,1427
-4,Terras De Cister,Rose,1428
-5,Dao,Rose,1429
-7,Alentejo,Red,1430
-6,Beira Atlantico,Red,1431
-6,Madeira,Rose,1432
-6,Dao,White,1433
-6,Algarve,Red,1434
-7,Beira Atlantico,Rose,1435
-6,Beira Interior,Rose,1436
-7,Algarve,White,1437
-6,Beira Atlantico,White,1438
-6,Dao,Red,1439
-6,Tejo,Rose,1440
-7,Beira Interior,Red,1441
-7,Minho,Rose,1442
-6,Minho,White,1443
-6,Terras De Cister,Rose,1444
-6,Algarve,White,1445
-6,Dao,Red,1446
-6,Algarve,White,1447
-6,Algarve,Red,1448
-5,Minho,Red,1449
-6,Beira Atlantico,White,1450
+5,Minho,White,1408
+6,Alentejo,Red,1409
+7,Terras De Cister,White,1410
+6,Dao,White,1411
+6,Beira Interior,Red,1412
+6,Lisboa,Red,1413
+6,Beira Atlantico,Red,1414
+5,Setubal,Rose,1415
+6,Beira Interior,Rose,1416
+7,Alentejo,Red,1417
+5,Madeira,Rose,1418
+7,Alentejo,Rose,1419
+5,Setubal,Red,1420
+5,Lisboa,Rose,1421
+6,Beira Atlantico,Red,1422
+5,Transmontano,Rose,1423
+7,Setubal,Rose,1424
+6,Tejo,Red,1425
+7,Beira Interior,Rose,1426
+7,Douro Valley,Red,1427
+4,Algarve,Rose,1428
+5,Douro Valley,Rose,1429
+7,Tejo,Rose,1430
+6,Dao,Rose,1431
+6,Terras De Cister,Red,1432
+6,Beira Atlantico,Red,1433
+6,Tejo,White,1434
+7,Setubal,Red,1435
+6,Dao,Rose,1436
+7,Setubal,Rose,1437
+6,Madeira,White,1438
+6,Dao,White,1439
+6,Transmontano,Rose,1440
+7,Tejo,White,1441
+7,Terras De Cister,White,1442
+6,Beira Atlantico,White,1443
+6,Minho,Red,1444
+6,Beira Atlantico,Red,1445
+6,Beira Interior,Rose,1446
+6,Douro Valley,White,1447
+6,Douro Valley,Red,1448
+5,Tejo,Rose,1449
+6,Lisboa,Rose,1450
 6,Lisboa,Red,1451
-6,Beira Interior,Red,1452
-5,Madeira,White,1453
-5,Lisboa,Red,1454
-5,Terras De Cister,Rose,1455
-6,Madeira,Rose,1456
-4,Setubal,Red,1457
-5,Terras De Cister,Red,1458
-6,Beira Interior,Rose,1459
-7,Beira Interior,Rose,1460
-6,Lisboa,Rose,1461
-6,Tejo,Red,1462
-5,Beira Interior,White,1463
-6,Beira Interior,Rose,1464
-6,Tejo,Red,1465
-6,Beira Atlantico,Rose,1466
-5,Dao,White,1467
-6,Terras De Cister,Red,1468
-6,Madeira,White,1469
-5,Terras De Cister,Red,1470
-7,Setubal,Red,1471
-5,Lisboa,White,1472
-7,Alentejo,White,1473
-6,Douro Valley,Red,1474
-5,Algarve,Rose,1475
-5,Terras De Cister,White,1476
-6,Dao,Rose,1477
-5,Dao,White,1478
-5,Tejo,Red,1479
-5,Madeira,White,1480
-7,Terras De Cister,White,1481
-5,Terras De Cister,Rose,1482
-6,Madeira,Rose,1483
-6,Tejo,Red,1484
-7,Dao,Rose,1485
-6,Terras De Cister,Red,1486
-5,Beira Atlantico,Red,1487
-7,Dao,Red,1488
-5,Lisboa,Rose,1489
-6,Alentejo,Red,1490
-6,Algarve,Red,1491
-6,Algarve,Red,1492
-6,Algarve,Rose,1493
-7,Douro Valley,Red,1494
-6,Lisboa,Rose,1495
-7,Lisboa,Red,1496
-6,Terras De Cister,White,1497
-7,Tejo,White,1498
-5,Beira Interior,Rose,1499
-7,Setubal,Rose,1500
-6,Madeira,White,1501
-5,Beira Atlantico,Red,1502
-5,Alentejo,White,1503
-6,Madeira,Red,1504
-8,Setubal,White,1505
-5,Douro Valley,White,1506
-6,Terras De Cister,Rose,1507
-7,Douro Valley,White,1508
-5,Terras De Cister,Rose,1509
-7,Transmontano,White,1510
-6,Transmontano,Rose,1511
-7,Beira Interior,Red,1512
-5,Dao,White,1513
-5,Alentejo,Rose,1514
-6,Minho,Rose,1515
-6,Alentejo,Red,1516
-6,Minho,White,1517
-5,Algarve,White,1518
-6,Setubal,White,1519
-6,Beira Interior,White,1520
-6,Minho,White,1521
-5,Dao,White,1522
-7,Terras De Cister,White,1523
-7,Beira Interior,White,1524
-6,Algarve,Red,1525
-6,Beira Atlantico,Red,1526
-7,Algarve,Rose,1527
-7,Douro Valley,White,1528
-6,Algarve,Red,1529
-5,Beira Atlantico,White,1530
-5,Madeira,White,1531
-6,Tejo,Rose,1532
-8,Transmontano,Red,1533
-6,Beira Atlantico,Rose,1534
-5,Lisboa,Red,1535
-5,Minho,Rose,1536
-6,Tejo,White,1537
-7,Madeira,Red,1538
-7,Madeira,Rose,1539
-6,Terras De Cister,Red,1540
-5,Madeira,Red,1541
-6,Alentejo,White,1542
-6,Transmontano,Red,1543
-5,Algarve,Red,1544
-5,Setubal,Red,1545
-5,Beira Atlantico,Rose,1546
-7,Beira Atlantico,White,1547
-5,Douro Valley,Rose,1548
-5,Douro Valley,Rose,1549
-6,Dao,White,1550
-7,Algarve,Red,1551
-6,Dao,White,1552
-7,Lisboa,Red,1553
-5,Setubal,Red,1554
-7,Tejo,Red,1555
-6,Transmontano,Rose,1556
-7,Algarve,White,1557
-7,Madeira,Rose,1558
-6,Tejo,Red,1559
-6,Algarve,White,1560
-6,Beira Atlantico,Rose,1561
-7,Alentejo,Rose,1562
-5,Transmontano,White,1563
-5,Douro Valley,Red,1564
-6,Algarve,Rose,1565
-5,Beira Atlantico,White,1566
-6,Beira Interior,Red,1567
-6,Beira Atlantico,Red,1568
-7,Dao,White,1569
-5,Dao,White,1570
-5,Dao,Rose,1571
-6,Tejo,White,1572
-6,Lisboa,White,1573
-6,Beira Atlantico,Rose,1574
-7,Madeira,Rose,1575
-8,Beira Interior,Rose,1576
-6,Algarve,White,1577
-6,Dao,Rose,1578
-5,Beira Atlantico,Rose,1579
-7,Setubal,Red,1580
-5,Dao,Red,1581
-6,Minho,Red,1582
-6,Madeira,Red,1583
-6,Beira Interior,Rose,1584
-5,Douro Valley,Rose,1585
-6,Douro Valley,Rose,1586
-5,Transmontano,Rose,1587
-6,Setubal,Red,1588
-6,Alentejo,Red,1589
-6,Beira Interior,Red,1590
-5,Dao,Red,1591
+6,Lisboa,Rose,1452
+5,Algarve,Red,1453
+5,Transmontano,Rose,1454
+5,Transmontano,Red,1455
+6,Madeira,Red,1456
+4,Minho,Rose,1457
+5,Alentejo,Red,1458
+6,Setubal,Rose,1459
+7,Alentejo,White,1460
+6,Algarve,White,1461
+6,Setubal,Red,1462
+5,Setubal,Rose,1463
+6,Beira Interior,Red,1464
+6,Transmontano,Red,1465
+6,Minho,White,1466
+5,Algarve,Red,1467
+6,Algarve,White,1468
+6,Beira Interior,Red,1469
+5,Beira Interior,White,1470
+7,Lisboa,White,1471
+5,Minho,Rose,1472
+7,Setubal,Red,1473
+6,Dao,Red,1474
+5,Dao,Rose,1475
+5,Alentejo,Rose,1476
+6,Algarve,Rose,1477
+5,Setubal,Red,1478
+5,Transmontano,Rose,1479
+5,Beira Atlantico,White,1480
+7,Transmontano,White,1481
+5,Transmontano,White,1482
+6,Douro Valley,Rose,1483
+6,Lisboa,White,1484
+7,Algarve,White,1485
+6,Tejo,Rose,1486
+5,Madeira,Red,1487
+7,Setubal,Red,1488
+5,Algarve,White,1489
+6,Minho,White,1490
+6,Madeira,White,1491
+6,Madeira,Red,1492
+6,Tejo,Rose,1493
+7,Lisboa,White,1494
+6,Minho,Rose,1495
+7,Setubal,White,1496
+6,Terras De Cister,Rose,1497
+7,Transmontano,White,1498
+5,Tejo,Rose,1499
+7,Terras De Cister,Red,1500
+6,Tejo,White,1501
+5,Terras De Cister,White,1502
+5,Lisboa,White,1503
+6,Lisboa,White,1504
+8,Terras De Cister,Rose,1505
+5,Transmontano,Rose,1506
+6,Dao,Rose,1507
+7,Algarve,Red,1508
+5,Douro Valley,Red,1509
+7,Dao,White,1510
+6,Beira Interior,Rose,1511
+7,Setubal,White,1512
+5,Beira Interior,White,1513
+5,Beira Atlantico,Rose,1514
+6,Algarve,White,1515
+6,Transmontano,Red,1516
+6,Alentejo,White,1517
+5,Setubal,Rose,1518
+6,Dao,White,1519
+6,Beira Interior,Red,1521
+5,Transmontano,Rose,1522
+7,Lisboa,Rose,1523
+7,Douro Valley,White,1524
+6,Setubal,White,1525
+6,Madeira,White,1526
+7,Lisboa,Rose,1527
+7,Beira Atlantico,Red,1528
+6,Tejo,Red,1529
+5,Lisboa,Rose,1530
+5,Transmontano,Red,1531
+6,Tejo,White,1532
+8,Minho,Red,1533
+6,Dao,Rose,1534
+5,Terras De Cister,Red,1535
+5,Beira Interior,Red,1536
+6,Minho,Red,1537
+7,Beira Interior,Rose,1538
+7,Lisboa,White,1539
+6,Setubal,Rose,1540
+5,Tejo,Red,1541
+6,Minho,Red,1542
+6,Tejo,Red,1543
+5,Douro Valley,Rose,1544
+5,Alentejo,Rose,1545
+5,Tejo,Rose,1546
+7,Algarve,Rose,1547
+5,Transmontano,Rose,1548
+5,Dao,Rose,1549
+6,Minho,Rose,1550
+7,Beira Interior,Rose,1551
+6,Tejo,Rose,1552
+7,Dao,Rose,1553
+5,Dao,White,1554
+7,Dao,Red,1555
+6,Tejo,White,1556
+7,Beira Atlantico,Rose,1557
+7,Algarve,White,1558
+6,Terras De Cister,White,1559
+6,Algarve,Rose,1560
+6,Douro Valley,Red,1561
+7,Terras De Cister,White,1562
+5,Algarve,Rose,1563
+5,Minho,White,1564
+6,Lisboa,White,1565
+5,Alentejo,Red,1566
+6,Transmontano,Rose,1567
+6,Algarve,Red,1568
+7,Terras De Cister,Red,1569
+5,Tejo,Rose,1570
+5,Transmontano,Rose,1571
+6,Tejo,Red,1572
+6,Minho,White,1573
+6,Minho,White,1574
+7,Algarve,Rose,1575
+8,Madeira,Red,1576
+6,Beira Interior,White,1577
+6,Douro Valley,Rose,1578
+5,Setubal,Rose,1579
+7,Alentejo,White,1580
+5,Douro Valley,White,1581
+6,Lisboa,White,1582
+6,Douro Valley,Red,1583
+6,Beira Interior,Red,1584
+5,Madeira,Rose,1585
+6,Minho,White,1586
+5,Terras De Cister,Red,1587
+6,Dao,White,1588
+6,Algarve,Red,1589
+6,Transmontano,Rose,1590
+5,Dao,Rose,1591
 6,Tejo,Rose,1592
-6,Algarve,White,1593
-7,Beira Atlantico,White,1594
+6,Madeira,Rose,1593
+7,Alentejo,Rose,1594
 6,Madeira,White,1595
-5,Beira Atlantico,White,1596
-5,Minho,Rose,1597
-7,Transmontano,White,1598
-6,Minho,Rose,1599
-6,Lisboa,Rose,1600
-6,Lisboa,White,1601
-7,Douro Valley,Rose,1602
-5,Transmontano,White,1603
-6,Terras De Cister,White,1604
-6,Terras De Cister,Red,1605
-6,Terras De Cister,White,1606
-5,Madeira,White,1607
-6,Setubal,Red,1608
-6,Beira Interior,Rose,1609
-5,Beira Atlantico,Rose,1610
-6,Beira Atlantico,White,1611
-5,Lisboa,White,1612
-6,Dao,Rose,1613
-8,Madeira,Rose,1614
-5,Setubal,White,1615
-7,Terras De Cister,White,1616
-6,Minho,Red,1617
-6,Setubal,Red,1618
-6,Transmontano,Red,1619
-6,Terras De Cister,White,1620
-6,Alentejo,Rose,1621
-6,Algarve,Red,1622
-6,Beira Interior,Red,1623
-7,Beira Interior,White,1624
-7,Algarve,Rose,1625
-6,Dao,Rose,1626
-6,Transmontano,Red,1627
-6,Minho,White,1628
-5,Douro Valley,White,1629
-5,Tejo,White,1630
-6,Minho,White,1631
-5,Terras De Cister,Rose,1632
-6,Lisboa,Red,1633
-6,Beira Atlantico,Red,1634
-6,Transmontano,White,1635
-6,Algarve,White,1636
-4,Terras De Cister,White,1637
-7,Transmontano,White,1638
-7,Lisboa,Rose,1639
-6,Beira Atlantico,White,1640
-8,Beira Atlantico,Red,1641
-6,Beira Atlantico,Rose,1642
-6,Transmontano,Rose,1643
-7,Minho,White,1644
-7,Beira Atlantico,White,1645
-6,Transmontano,White,1646
-7,Minho,Rose,1647
-5,Beira Atlantico,White,1648
+5,Setubal,Red,1596
+5,Beira Interior,Rose,1597
+7,Alentejo,White,1598
+6,Terras De Cister,Red,1599
+6,Algarve,Red,1600
+6,Minho,White,1601
+7,Minho,Red,1602
+5,Beira Atlantico,Red,1603
+6,Madeira,Red,1604
+6,Madeira,Rose,1605
+6,Tejo,Red,1606
+5,Madeira,Red,1607
+6,Terras De Cister,White,1609
+5,Minho,Rose,1610
+6,Terras De Cister,White,1611
+5,Douro Valley,Red,1612
+6,Douro Valley,Red,1613
+8,Alentejo,White,1614
+5,Lisboa,Red,1615
+7,Tejo,White,1616
+6,Minho,Rose,1617
+6,Tejo,White,1618
+6,Beira Interior,Rose,1619
+6,Minho,Rose,1620
+6,Beira Atlantico,Rose,1621
+6,Minho,White,1622
+6,Transmontano,Rose,1623
+7,Alentejo,Red,1624
+7,Minho,Rose,1625
+6,Alentejo,White,1626
+6,Tejo,Rose,1627
+6,Algarve,Red,1628
+5,Beira Interior,Red,1629
+5,Transmontano,Rose,1630
+6,Beira Atlantico,Rose,1631
+5,Minho,Red,1632
+6,Minho,Rose,1633
+6,Transmontano,Rose,1634
+6,Beira Atlantico,Rose,1635
+6,Beira Interior,Rose,1636
+4,Minho,Red,1637
+7,Lisboa,Rose,1638
+7,Tejo,Red,1639
+6,Tejo,Rose,1640
+8,Algarve,White,1641
+6,Lisboa,Red,1642
+6,Alentejo,White,1643
+7,Dao,White,1644
+7,Madeira,White,1645
+6,Dao,White,1646
+7,Terras De Cister,Rose,1647
+5,Douro Valley,White,1648
 6,Minho,Rose,1649
-7,Tejo,Red,1650
-6,Madeira,White,1651
-5,Setubal,Red,1652
-6,Lisboa,Red,1653
-5,Beira Interior,Red,1654
-7,Beira Atlantico,White,1655
-6,Minho,Red,1656
-6,Tejo,Rose,1657
-6,Dao,Red,1658
-6,Madeira,Red,1659
+7,Beira Interior,Red,1650
+6,Tejo,White,1651
+5,Minho,Rose,1652
+6,Douro Valley,White,1653
+5,Beira Atlantico,Rose,1654
+7,Terras De Cister,White,1655
+6,Tejo,White,1656
+6,Minho,White,1657
+6,Beira Atlantico,Red,1658
+6,Tejo,White,1659
 6,Beira Atlantico,Rose,1660
-7,Dao,White,1661
-7,Madeira,Red,1662
-7,Alentejo,Red,1663
-5,Algarve,Red,1664
-7,Algarve,Rose,1665
-6,Dao,Red,1666
-6,Beira Interior,Rose,1667
-5,Dao,Rose,1668
-6,Douro Valley,Rose,1669
-6,Terras De Cister,Rose,1670
-6,Algarve,Rose,1671
-7,Beira Atlantico,Rose,1672
-5,Alentejo,Red,1673
-6,Setubal,Red,1674
-5,Madeira,White,1675
-6,Dao,Red,1676
-6,Tejo,Rose,1677
-6,Madeira,Red,1678
-6,Madeira,White,1679
-5,Beira Interior,Rose,1680
-6,Minho,White,1681
-5,Minho,Rose,1682
-7,Algarve,White,1683
-6,Lisboa,Red,1684
-7,Beira Atlantico,White,1685
-5,Lisboa,White,1686
+7,Madeira,White,1661
+7,Algarve,White,1662
+7,Setubal,Red,1663
+5,Beira Interior,Rose,1664
+7,Beira Interior,Rose,1665
+6,Terras De Cister,White,1666
+6,Douro Valley,Red,1667
+5,Beira Atlantico,Rose,1668
+6,Beira Interior,Rose,1669
+6,Lisboa,Rose,1670
+6,Douro Valley,Rose,1671
+7,Algarve,Red,1672
+5,Alentejo,Rose,1673
+6,Beira Interior,Red,1674
+5,Terras De Cister,White,1675
+6,Tejo,White,1676
+6,Douro Valley,Red,1677
+6,Madeira,Rose,1678
+6,Algarve,Red,1679
+5,Minho,Red,1680
+6,Douro Valley,Red,1681
+5,Algarve,White,1682
+7,Minho,Rose,1683
+6,Tejo,Red,1684
+7,Alentejo,Red,1685
+5,Douro Valley,Red,1686
 6,Madeira,Rose,1687
-6,Setubal,Red,1688
-5,Douro Valley,White,1689
-4,Madeira,Rose,1690
-5,Dao,White,1691
-6,Transmontano,White,1692
-6,Algarve,Rose,1693
-7,Beira Atlantico,White,1694
-7,Transmontano,White,1695
-7,Dao,Red,1696
-5,Algarve,Rose,1697
-5,Terras De Cister,White,1698
-6,Lisboa,White,1699
-6,Madeira,Red,1700
-7,Tejo,Rose,1701
-5,Algarve,Red,1702
-6,Algarve,White,1703
-5,Dao,White,1704
-8,Minho,Rose,1705
-6,Transmontano,White,1706
-5,Lisboa,Red,1707
-7,Beira Atlantico,Red,1708
+6,Douro Valley,White,1688
+5,Beira Atlantico,Rose,1689
+4,Alentejo,Rose,1690
+5,Tejo,Rose,1691
+6,Beira Atlantico,Rose,1692
+6,Setubal,White,1693
+7,Algarve,Red,1694
+7,Madeira,Rose,1695
+7,Algarve,Rose,1696
+5,Algarve,Red,1697
+5,Beira Atlantico,Red,1698
+6,Transmontano,White,1699
+6,Beira Interior,White,1700
+7,Algarve,Rose,1701
+5,Beira Atlantico,White,1702
+6,Douro Valley,Rose,1703
+5,Dao,Rose,1704
+8,Beira Interior,Red,1705
+6,Minho,Rose,1706
+5,Terras De Cister,White,1707
+7,Setubal,Red,1708
 7,Alentejo,Rose,1709
-7,Alentejo,White,1710
-5,Minho,Rose,1711
-6,Lisboa,White,1712
-6,Beira Atlantico,Red,1713
-5,Minho,Rose,1714
-5,Dao,Red,1715
-6,Beira Atlantico,White,1716
-7,Lisboa,Red,1717
-7,Terras De Cister,Rose,1718
+7,Tejo,Rose,1710
+5,Douro Valley,Red,1711
+6,Madeira,White,1712
+6,Setubal,White,1713
+5,Dao,Rose,1714
+5,Madeira,Red,1715
+6,Tejo,White,1716
+7,Alentejo,Red,1717
+7,Algarve,Rose,1718
 8,Minho,Red,1719
-6,Algarve,White,1720
-5,Alentejo,White,1721
-7,Terras De Cister,Rose,1722
-6,Douro Valley,White,1723
-7,Tejo,Rose,1724
-5,Lisboa,Red,1725
-6,Tejo,White,1726
-6,Alentejo,Red,1727
-7,Lisboa,Red,1728
-6,Setubal,Red,1729
-7,Douro Valley,White,1730
-6,Setubal,Red,1731
-6,Minho,White,1732
-6,Minho,White,1733
-5,Madeira,Rose,1734
-5,Douro Valley,White,1735
-6,Minho,Red,1736
-7,Beira Atlantico,White,1737
-5,Douro Valley,Rose,1738
-7,Tejo,White,1739
-6,Douro Valley,Rose,1740
-7,Dao,Red,1741
-6,Algarve,Rose,1742
-6,Madeira,Rose,1743
-8,Alentejo,Rose,1744
-7,Minho,White,1745
-5,Setubal,Rose,1746
-6,Douro Valley,Rose,1747
-6,Alentejo,White,1748
-5,Minho,Red,1749
-6,Minho,Rose,1750
-6,Transmontano,White,1751
-7,Setubal,Rose,1752
-6,Alentejo,Rose,1753
-6,Alentejo,White,1754
-6,Setubal,White,1755
-6,Terras De Cister,Red,1756
-6,Tejo,White,1757
-6,Algarve,White,1758
-6,Transmontano,Red,1759
-5,Beira Interior,White,1760
-5,Lisboa,Rose,1761
-7,Algarve,Rose,1762
-7,Beira Interior,White,1763
-7,Setubal,Red,1764
-5,Tejo,Red,1765
-6,Beira Interior,Red,1766
-6,Setubal,White,1767
-5,Transmontano,Rose,1768
-6,Alentejo,Rose,1769
-6,Beira Interior,Red,1770
+6,Madeira,Red,1720
+5,Beira Atlantico,Rose,1721
+7,Transmontano,Rose,1722
+6,Terras De Cister,White,1723
+7,Dao,Rose,1724
+5,Setubal,Red,1725
+6,Beira Interior,White,1726
+6,Setubal,Red,1727
+7,Beira Atlantico,Red,1728
+6,Beira Interior,White,1729
+7,Setubal,Rose,1730
+6,Lisboa,Rose,1731
+6,Douro Valley,Red,1732
+6,Beira Interior,White,1733
+5,Madeira,Red,1734
+5,Alentejo,Rose,1735
+6,Madeira,Rose,1736
+7,Alentejo,White,1737
+5,Douro Valley,Red,1738
+7,Transmontano,Rose,1739
+6,Lisboa,Red,1740
+7,Setubal,Rose,1741
+6,Terras De Cister,Red,1742
+6,Dao,Red,1743
+8,Transmontano,Red,1744
+7,Terras De Cister,Red,1745
+5,Alentejo,Red,1746
+6,Setubal,Red,1747
+6,Douro Valley,Red,1748
+5,Algarve,Rose,1749
+6,Alentejo,Rose,1750
+6,Lisboa,White,1751
+7,Beira Interior,White,1752
+6,Dao,Red,1753
+6,Terras De Cister,Red,1754
+6,Tejo,Red,1755
+6,Transmontano,Rose,1756
+6,Algarve,Rose,1757
+6,Dao,Rose,1758
+6,Transmontano,Rose,1759
+5,Lisboa,White,1760
+5,Alentejo,White,1761
+7,Madeira,White,1762
+7,Tejo,White,1763
+7,Setubal,White,1764
+5,Alentejo,Rose,1765
+6,Dao,White,1766
+6,Terras De Cister,Red,1767
+5,Beira Atlantico,Red,1768
+6,Algarve,White,1769
+6,Alentejo,Rose,1770
 8,Dao,Rose,1771
-6,Madeira,White,1772
-6,Terras De Cister,Red,1773
-7,Minho,White,1774
-5,Setubal,Red,1775
-6,Madeira,White,1776
-6,Dao,White,1777
-6,Tejo,White,1778
-5,Tejo,White,1779
-7,Setubal,White,1780
-6,Alentejo,Rose,1781
-6,Algarve,Red,1782
-5,Lisboa,Rose,1783
-7,Lisboa,White,1784
-7,Douro Valley,Red,1785
-7,Beira Interior,White,1786
-6,Beira Interior,Red,1787
-6,Tejo,Rose,1788
-6,Transmontano,Red,1789
-7,Beira Atlantico,Rose,1790
-7,Terras De Cister,White,1791
-6,Minho,Red,1792
-6,Tejo,White,1793
-5,Beira Atlantico,Red,1794
-6,Minho,Rose,1795
-4,Douro Valley,White,1796
-6,Algarve,Rose,1797
-6,Algarve,Red,1798
-5,Dao,Rose,1799
-5,Madeira,Red,1800
-8,Lisboa,White,1801
-6,Madeira,Rose,1802
-5,Setubal,Rose,1803
-6,Madeira,White,1804
-5,Algarve,White,1805
-5,Algarve,Red,1806
-6,Minho,White,1807
+6,Dao,Red,1772
+6,Beira Interior,Red,1773
+7,Tejo,Red,1774
+5,Dao,Rose,1775
+6,Lisboa,Red,1776
+6,Douro Valley,Red,1777
+6,Setubal,Rose,1778
+5,Dao,White,1779
+7,Madeira,White,1780
+6,Dao,Red,1781
+6,Minho,White,1782
+5,Beira Atlantico,Rose,1783
+7,Douro Valley,Red,1784
+7,Alentejo,White,1785
+7,Beira Atlantico,Red,1786
+6,Douro Valley,Red,1787
+6,Lisboa,Rose,1788
+6,Douro Valley,Red,1789
+7,Transmontano,Red,1790
+7,Douro Valley,White,1791
+6,Beira Atlantico,White,1792
+6,Lisboa,Red,1793
+5,Alentejo,Red,1794
+6,Alentejo,Rose,1795
+4,Douro Valley,Red,1796
+6,Tejo,Red,1797
+6,Beira Interior,Red,1798
+5,Algarve,Red,1799
+5,Dao,Rose,1800
+8,Tejo,Red,1801
+6,Madeira,White,1802
+5,Dao,Rose,1803
+6,Transmontano,Red,1804
+5,Terras De Cister,Red,1805
+5,Setubal,Red,1806
+6,Tejo,White,1807
 6,Terras De Cister,White,1808
-6,Minho,Rose,1809
-5,Beira Interior,Red,1810
-5,Madeira,White,1811
-5,Alentejo,Red,1812
-6,Beira Interior,White,1813
-7,Tejo,Rose,1814
-8,Minho,White,1815
-7,Beira Atlantico,Rose,1816
+6,Beira Interior,Rose,1809
+5,Tejo,Red,1810
+5,Dao,White,1812
+6,Beira Atlantico,Red,1813
+7,Beira Atlantico,White,1814
+8,Beira Atlantico,White,1815
+7,Setubal,White,1816
 8,Algarve,Rose,1817
-7,Dao,Red,1818
-6,Lisboa,Rose,1819
-6,Terras De Cister,White,1820
-6,Transmontano,Rose,1821
-5,Douro Valley,White,1822
-6,Beira Atlantico,Red,1823
-4,Minho,Rose,1824
-6,Terras De Cister,White,1825
-6,Douro Valley,Red,1826
-7,Tejo,Rose,1827
+7,Transmontano,White,1818
+6,Alentejo,Red,1819
+6,Minho,Rose,1820
+6,Terras De Cister,Red,1821
+5,Beira Interior,White,1822
+6,Alentejo,White,1823
+4,Setubal,Red,1824
+6,Tejo,White,1825
+6,Tejo,Red,1826
+7,Algarve,Red,1827
 5,Tejo,White,1828
-4,Tejo,Red,1829
+4,Dao,Red,1829
 6,Alentejo,Red,1830
-6,Setubal,Red,1831
-5,Beira Interior,Red,1832
-7,Douro Valley,Red,1833
-5,Douro Valley,White,1834
-5,Douro Valley,Rose,1835
-5,Setubal,White,1836
-6,Minho,White,1837
-5,Setubal,Rose,1838
-5,Tejo,Rose,1839
-6,Setubal,Rose,1840
-5,Terras De Cister,Red,1841
-5,Terras De Cister,Red,1842
-6,Minho,White,1843
-6,Algarve,White,1844
-7,Terras De Cister,White,1845
-6,Alentejo,Red,1846
-7,Beira Atlantico,Rose,1847
-6,Madeira,Rose,1848
-7,Alentejo,Red,1849
-7,Beira Interior,White,1850
-6,Terras De Cister,White,1851
-5,Terras De Cister,Red,1852
-7,Minho,Rose,1853
-6,Madeira,Red,1854
-4,Algarve,Rose,1855
-6,Lisboa,White,1856
-7,Madeira,Red,1857
-5,Terras De Cister,White,1858
-5,Minho,Rose,1859
-7,Transmontano,White,1860
-5,Minho,Rose,1861
-5,Terras De Cister,Red,1862
-6,Madeira,Rose,1863
-5,Minho,Red,1864
-5,Terras De Cister,Red,1865
-7,Terras De Cister,White,1866
-6,Beira Interior,Rose,1867
-7,Transmontano,White,1868
-5,Lisboa,Red,1869
-6,Beira Interior,Rose,1870
-6,Terras De Cister,Red,1871
-5,Lisboa,Red,1872
-7,Minho,Red,1873
-6,Minho,Rose,1874
-5,Algarve,Red,1875
-5,Algarve,Red,1876
-7,Setubal,Red,1877
-7,Transmontano,White,1878
-6,Beira Interior,Red,1879
+6,Lisboa,White,1831
+5,Madeira,Red,1832
+7,Beira Interior,Rose,1833
+5,Minho,White,1834
+5,Madeira,White,1835
+5,Alentejo,White,1836
+6,Terras De Cister,White,1837
+5,Terras De Cister,Rose,1838
+5,Transmontano,Red,1839
+6,Lisboa,Rose,1840
+5,Lisboa,Red,1841
+5,Transmontano,Rose,1842
+6,Transmontano,White,1843
+6,Tejo,White,1844
+7,Alentejo,Rose,1845
+6,Transmontano,Red,1846
+7,Terras De Cister,White,1847
+6,Douro Valley,White,1848
+7,Terras De Cister,White,1849
+7,Minho,Red,1850
+6,Setubal,Red,1851
+5,Transmontano,Red,1852
+7,Beira Interior,White,1853
+6,Madeira,White,1854
+4,Minho,Rose,1855
+6,Terras De Cister,Red,1856
+7,Minho,Rose,1857
+5,Beira Atlantico,Red,1858
+5,Tejo,White,1859
+7,Tejo,White,1860
+5,Madeira,White,1861
+5,Tejo,White,1862
+6,Algarve,Red,1863
+5,Terras De Cister,White,1864
+5,Beira Interior,White,1865
+7,Terras De Cister,Red,1866
+6,Alentejo,White,1867
+7,Transmontano,Rose,1868
+5,Beira Interior,Red,1869
+6,Setubal,White,1870
+6,Algarve,Rose,1871
+5,Beira Interior,Red,1872
+7,Setubal,White,1873
+5,Algarve,Rose,1875
+5,Dao,White,1876
+7,Madeira,White,1877
+7,Beira Atlantico,Rose,1878
+6,Lisboa,Red,1879
 7,Alentejo,Rose,1880
-5,Setubal,Red,1881
-5,Beira Atlantico,Red,1882
-9,Alentejo,Rose,1883
-6,Dao,Rose,1884
-5,Terras De Cister,White,1885
-6,Beira Atlantico,White,1886
-7,Alentejo,Rose,1887
-5,Lisboa,White,1888
-6,Transmontano,White,1889
-6,Lisboa,Rose,1890
-5,Algarve,Rose,1891
-5,Beira Interior,Rose,1892
-6,Terras De Cister,Rose,1893
-6,Lisboa,Red,1894
-5,Alentejo,White,1895
-6,Douro Valley,Rose,1896
-5,Terras De Cister,White,1897
-7,Transmontano,Red,1898
-7,Dao,White,1899
-5,Beira Atlantico,Red,1900
-7,Algarve,Red,1901
-6,Beira Atlantico,White,1902
-7,Algarve,White,1903
-5,Alentejo,Red,1904
-6,Minho,White,1905
-5,Algarve,White,1906
-6,Alentejo,Rose,1907
-5,Tejo,Red,1908
-4,Setubal,Rose,1909
-7,Beira Atlantico,White,1910
-5,Minho,Rose,1911
-6,Lisboa,Red,1912
-6,Douro Valley,Red,1913
-5,Tejo,Red,1914
-7,Beira Interior,Red,1915
-6,Lisboa,Rose,1916
-6,Setubal,Red,1917
-5,Dao,White,1918
-5,Terras De Cister,Rose,1919
-6,Beira Interior,Red,1920
+5,Dao,Red,1881
+5,Setubal,White,1882
+9,Alentejo,White,1883
+6,Douro Valley,Red,1884
+5,Dao,White,1885
+6,Douro Valley,Rose,1886
+7,Terras De Cister,White,1887
+5,Transmontano,Rose,1888
+6,Dao,Rose,1889
+6,Madeira,Red,1890
+5,Dao,Red,1891
+5,Douro Valley,Red,1892
+6,Dao,Rose,1893
+6,Terras De Cister,White,1894
+5,Algarve,Red,1895
+6,Minho,White,1896
+5,Algarve,Rose,1897
+7,Tejo,Red,1898
+7,Tejo,Rose,1899
+5,Beira Interior,Red,1900
+7,Douro Valley,Red,1901
+6,Beira Atlantico,Red,1902
+5,Tejo,Rose,1904
+6,Douro Valley,Rose,1905
+5,Madeira,Red,1906
+6,Douro Valley,Rose,1907
+5,Setubal,White,1908
+4,Transmontano,Red,1909
+7,Beira Atlantico,Rose,1910
+5,Beira Atlantico,Rose,1911
+6,Douro Valley,White,1912
+6,Beira Atlantico,Rose,1913
+5,Terras De Cister,Rose,1914
+7,Tejo,Rose,1915
+6,Transmontano,Red,1916
+6,Terras De Cister,Red,1917
+5,Beira Interior,Rose,1918
+5,Minho,White,1919
+6,Douro Valley,Rose,1920
 6,Minho,White,1921
-6,Tejo,Rose,1922
-5,Lisboa,White,1923
-6,Douro Valley,White,1924
-5,Alentejo,Rose,1925
-6,Minho,Rose,1926
-7,Beira Interior,Red,1927
-6,Douro Valley,Red,1928
-5,Algarve,White,1929
-8,Terras De Cister,White,1930
-6,Beira Interior,Red,1931
-7,Setubal,Rose,1932
-5,Tejo,Red,1933
-5,Alentejo,Rose,1934
-7,Lisboa,Rose,1935
-7,Lisboa,White,1936
-6,Algarve,Red,1937
-7,Alentejo,Rose,1938
-7,Lisboa,Rose,1939
-6,Setubal,White,1940
-7,Dao,Red,1941
-6,Terras De Cister,White,1942
-6,Tejo,Rose,1943
-6,Dao,White,1944
-7,Setubal,Rose,1945
-5,Minho,Red,1946
-5,Beira Atlantico,Rose,1947
-5,Beira Atlantico,Rose,1948
-7,Algarve,Red,1949
-6,Madeira,White,1950
-6,Terras De Cister,Red,1951
-6,Madeira,White,1952
-5,Dao,White,1953
-6,Beira Atlantico,Red,1954
-6,Alentejo,Red,1955
-5,Alentejo,White,1956
-6,Minho,Red,1957
-6,Douro Valley,Red,1958
-6,Beira Atlantico,Rose,1959
-6,Douro Valley,White,1960
-5,Beira Atlantico,Rose,1961
-5,Douro Valley,White,1962
-5,Tejo,White,1963
-6,Tejo,Red,1964
-5,Tejo,Red,1965
-6,Setubal,Red,1966
-8,Minho,White,1967
-6,Terras De Cister,Rose,1968
-7,Setubal,White,1969
-6,Tejo,Rose,1970
-5,Transmontano,White,1971
-5,Douro Valley,White,1972
-7,Beira Atlantico,White,1973
-6,Beira Atlantico,Red,1974
-8,Lisboa,White,1975
-8,Algarve,White,1976
-7,Tejo,Red,1977
-7,Setubal,Rose,1978
-5,Madeira,White,1979
-5,Terras De Cister,Rose,1980
-6,Douro Valley,Red,1981
-7,Beira Atlantico,Rose,1982
+6,Setubal,Rose,1922
+5,Terras De Cister,Rose,1923
+6,Tejo,Rose,1924
+5,Setubal,White,1925
+6,Tejo,Red,1926
+7,Terras De Cister,Rose,1927
+6,Terras De Cister,White,1928
+5,Madeira,White,1929
+8,Dao,Red,1930
+6,Transmontano,White,1931
+7,Dao,Red,1932
+5,Douro Valley,Red,1933
+5,Setubal,Rose,1934
+7,Setubal,Red,1935
+7,Algarve,Red,1936
+6,Madeira,Red,1937
+7,Minho,White,1938
+7,Transmontano,Red,1939
+6,Transmontano,Red,1940
+7,Beira Interior,White,1941
+6,Douro Valley,White,1942
+6,Dao,Rose,1943
+6,Tejo,Rose,1944
+7,Alentejo,Red,1945
+5,Setubal,Red,1946
+5,Algarve,Red,1947
+5,Minho,White,1948
+7,Tejo,White,1949
+6,Beira Atlantico,White,1950
+6,Alentejo,Red,1951
+6,Beira Interior,Red,1952
+5,Terras De Cister,Red,1953
+6,Dao,Red,1954
+6,Setubal,White,1955
+5,Minho,Rose,1956
+6,Beira Interior,Red,1957
+6,Transmontano,White,1958
+6,Alentejo,Rose,1959
+6,Beira Interior,Red,1960
+5,Lisboa,White,1961
+5,Transmontano,Rose,1962
+5,Beira Atlantico,White,1963
+6,Tejo,Rose,1964
+5,Minho,Rose,1965
+6,Beira Atlantico,Red,1966
+8,Beira Atlantico,Red,1967
+6,Dao,Rose,1968
+7,Lisboa,White,1969
+6,Tejo,Red,1970
+5,Setubal,Red,1971
+5,Alentejo,Red,1972
+7,Douro Valley,Rose,1973
+6,Beira Atlantico,Rose,1974
+8,Douro Valley,Red,1975
+8,Beira Atlantico,White,1976
+7,Dao,White,1977
+7,Beira Atlantico,Rose,1978
+5,Beira Interior,White,1979
+5,Alentejo,White,1980
+6,Beira Atlantico,Red,1981
+7,Beira Interior,Rose,1982
 5,Minho,White,1983
-5,Transmontano,Red,1984
-6,Setubal,White,1985
-5,Minho,Red,1986
-7,Tejo,White,1987
-7,Alentejo,White,1988
+5,Beira Interior,White,1984
+6,Algarve,Red,1985
+5,Setubal,Rose,1986
+7,Terras De Cister,Red,1987
+7,Transmontano,Rose,1988
 5,Lisboa,Red,1989
-5,Transmontano,Rose,1990
-5,Beira Atlantico,Red,1991
-6,Beira Interior,White,1992
-7,Beira Atlantico,White,1993
-6,Lisboa,Red,1994
-6,Beira Interior,Rose,1995
-5,Lisboa,Red,1996
-6,Madeira,Red,1997
-6,Terras De Cister,Red,1998
-5,Algarve,White,1999
-7,Beira Atlantico,Red,2000
-6,Tejo,Rose,2001
-5,Tejo,Rose,2002
-9,Beira Interior,Red,2003
-6,Douro Valley,White,2004
-7,Transmontano,White,2005
-6,Setubal,Rose,2006
-6,Douro Valley,White,2007
-7,Dao,Rose,2008
-6,Setubal,Red,2009
-5,Lisboa,Rose,2010
-5,Alentejo,Rose,2011
-6,Madeira,Rose,2012
-5,Alentejo,Red,2013
-6,Douro Valley,White,2014
-6,Transmontano,White,2015
-6,Lisboa,Red,2016
-6,Minho,White,2017
-6,Alentejo,White,2018
-5,Dao,White,2019
-6,Dao,White,2020
-6,Algarve,White,2021
-8,Minho,Red,2022
-8,Tejo,White,2023
-6,Terras De Cister,Rose,2024
-7,Alentejo,White,2025
-7,Algarve,Rose,2026
-5,Alentejo,Rose,2027
-6,Beira Atlantico,Red,2028
-5,Madeira,Red,2029
-5,Alentejo,White,2030
-6,Tejo,White,2031
-6,Alentejo,Rose,2032
-6,Beira Interior,Red,2033
-7,Minho,Red,2034
-5,Madeira,Red,2035
-7,Transmontano,Rose,2036
+5,Terras De Cister,White,1990
+5,Alentejo,White,1991
+6,Transmontano,White,1992
+7,Douro Valley,White,1993
+6,Madeira,Rose,1994
+6,Terras De Cister,Red,1995
+5,Tejo,White,1996
+6,Beira Interior,White,1997
+6,Algarve,White,1998
+5,Madeira,Red,1999
+7,Douro Valley,Red,2000
+6,Dao,Red,2001
+5,Algarve,White,2002
+9,Dao,Rose,2003
+6,Minho,White,2004
+6,Tejo,White,2006
+6,Terras De Cister,Rose,2007
+7,Madeira,Red,2008
+6,Transmontano,Rose,2009
+5,Algarve,Rose,2010
+5,Beira Interior,Rose,2011
+6,Transmontano,Red,2012
+5,Beira Interior,Red,2013
+6,Douro Valley,Rose,2014
+6,Alentejo,White,2015
+6,Dao,Red,2016
+6,Douro Valley,Rose,2017
+6,Terras De Cister,White,2018
+5,Alentejo,Red,2019
+6,Tejo,Red,2020
+6,Setubal,Red,2021
+8,Algarve,Rose,2022
+8,Transmontano,White,2023
+6,Beira Interior,Rose,2024
+7,Madeira,Rose,2025
+7,Lisboa,Red,2026
+5,Setubal,Rose,2027
+6,Lisboa,Rose,2028
+5,Douro Valley,Red,2029
+5,Alentejo,Red,2030
+6,Alentejo,White,2031
+6,Dao,Rose,2032
+6,Setubal,Rose,2033
+7,Transmontano,Rose,2034
+5,Terras De Cister,Red,2035
+7,Tejo,Rose,2036
