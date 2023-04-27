@@ -23,4 +23,4 @@ REGION MAP:
 
 CITATIONS: 
 - "Portugal Wine Data"; Marilia Prata; https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadswinecsv?resource=download. 2021
-- "The WInes of Portugal (Organized by Region)"; winefully.com. 2023
+- "The WInes of Portugal (Organized by Region)"; Madeline Puckette; https://winefolly.com/deep-dive/what-wines-to-drink-from-portugal-by-region/winefully.com. 2023
