@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Four_WINE-Os
 
 ## WHY:  Quality of Portugal wines? 
+=======
+# FOUR_WINE-Os
+>>>>>>> 59d2b272d7c5faa4f6bc16ebc3d047244e50bb2b
 
 ## QUESTIONS
   * How do various chemical properties affect the quality rating of Portugal wines? 
