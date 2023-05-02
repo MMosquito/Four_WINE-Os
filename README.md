@@ -28,3 +28,5 @@
     * sulphates (float)
     * alcohol (float)
 * 'id' 
+
+* Queries based on 3 basic tables
