@@ -1,6 +1,12 @@
 # Four_WINE-Os
 
-## WHY:  Quality of Portugal wines? 
+## WHY:  Quality of Portugal Wines!  
+
+How does one determine the best quality of wine?  Is it about taste? Color? What region is it from?  How about chemical properties?  
+
+The Four-WINE-Os are here to help wine enthusiasts gather more information on Portugal wines through the exploration of over 2000 types of wine from over 13 different regions.  We will show the quality rating score of 3 to 9 (9 being the highest) of Portugal wines based on several different factors to include sugar, sulphate, pH, sulfur dioxide, citric acid, and more. 
+
+Let’s help you discover what is determined the best quality of Portugal wine based on chemical properties! 
 
 ## QUESTIONS
   * How do various chemical properties affect the quality rating of Portugal wines? 
@@ -29,3 +35,4 @@ CITATIONS:
 - "The WInes of Portugal (Organized by Region)"; Madeline Puckette; https://winefolly.com/deep-dive/what-wines-to-drink-from-portugal-by-region/winefully.com. 2023
 - "ERD.png"; https://app.quickdatabasediagrams.com/. 2023
 
+#### Disclaimer the data in this project is gathered for training purposes only.   
