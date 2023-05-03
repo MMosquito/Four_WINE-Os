@@ -18,14 +18,23 @@ Let’s help you discover what is determined the best quality of Portugal wine b
 The data is made up of both chemical and sensory data for 2037 unique wines, all hailing from a single wine-producing area of Portugal. The chemical properties of each wine that have been collected contain several impactful pieces of information about each individual wine, from the acidity, to the residual sugar left beind after fermentation, to the level of sulphates present. All told 11 pieces of numerical chemical data were collected for every wine featured in the dataset, with all the values existing as continuous variables. They are as follows:
 
  -Fixed Acidity
+ 
  -Volatile Acidity
+ 
  -Citric Acid
+ 
  -Residual Sugar
+ 
  -Chlorides
+ 
  -Free Sulfur Dioxide
+ 
  -Total Sulfur Dioxide
+ 
  -Density
+ 
  -pH
+ 
  -Sulphates
 
 The final piece of data present in  the dataset is not chemical data, and in fact is not even objective data. It is a ranking of quality gathered by individuals from sensory data taken from tasting the wines. This quality ranking falls on a scale of 1 to 10, with 1 being the highest and 10 being the lowest, although in practice there were only results falling between 3 and 9, with no wines having a final ranking of 1, 2 or 10. Further adding to the concentration of values in the middle of the data range is a pronounced lack of values that fall on the edges of the present quality values, with only 7 wines being scored either 3 or 9. All told, of the 2037 wines sampled, 1924 of them were given of final quality ranking of either 5, 6 or 7. This concentration of data in the middle of the possible values is reflected in the summary statistics of the entire dataset, which finds the inner-quartile range of the quality values to exist entirely between the scores of 5 and 6.
