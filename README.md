@@ -74,4 +74,3 @@ CITATIONS:
 - "ERD.png"; https://app.quickdatabasediagrams.com/. 2023
 
 #### Disclaimer the data in this project is gathered for training purposes only.   
-![image](https://user-images.githubusercontent.com/119082569/236087309-3b958c2c-c23d-4201-8636-a8fa095ee805.png)
