@@ -9,8 +9,14 @@ The Four-WINE-Os are here to help wine enthusiasts gather more information on Po
 Let’s help you discover what is determined the best quality of Portugal wine based on chemical properties! 
 
 ## QUESTIONS
-  * How do various chemical properties affect the quality rating of Portugal wines? 
-  * How to classify the Portugal Wines? 
+  * How does acidity affect the quality rating of Portugal wines?
+  * How does the amount of residual sugar in a wine affect the quality rating?
+  * How do sulfur dioxide levels affect the quality rating?
+  * How does density affect the overall rating?
+  * How does pH affect the quality rating?
+  * How does alcohol content affect quality rating?
+  * Which of these variables, if any, have the largest correlation between their value and the quality of the wine?
+  * Can machine learning be used to predict the qualty of a wine based upon an analysis of it's various chemical properties?
 
 
 ## DATA DESCRIPTION
