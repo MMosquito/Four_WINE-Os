@@ -9,12 +9,6 @@ The Four-WINE-Os are here to help wine enthusiasts gather more information on Po
 Let’s help you discover what is determined the best quality of Portugal wine based on chemical properties! 
 
 ## QUESTIONS
-  * How does acidity affect the quality rating of Portugal wines?
-  * How does the amount of residual sugar in a wine affect the quality rating?
-  * How do sulfur dioxide levels affect the quality rating?
-  * How does density affect the overall rating?
-  * How does pH affect the quality rating?
-  * How does alcohol content affect quality rating?
   * Which of these variables, if any, have the largest correlation between their value and the quality of the wine?
   * Can machine learning be used to predict the qualty of a wine based upon an analysis of it's various chemical properties?
 
@@ -45,7 +39,7 @@ The data is made up of both chemical and sensory data for 2037 unique wines, all
  
  -Alcohol
 
-The final piece of data present in  the dataset is not chemical data, and in fact is not even objective data. It is a ranking of quality gathered by individuals from sensory data taken from tasting the wines. This quality ranking falls on a scale of 1 to 10, with 1 being the highest and 10 being the lowest, although in practice there were only results falling between 3 and 9, with no wines having a final ranking of 1, 2 or 10. Further adding to the concentration of values in the middle of the data range is a pronounced lack of values that fall on the edges of the present quality values, with only 7 wines being scored either 3 or 9. All told, of the 2037 wines sampled, 1924 of them were given of final quality ranking of either 5, 6 or 7. This concentration of data in the middle of the possible values is reflected in the summary statistics of the entire dataset, which finds the inner-quartile range of the quality values to exist entirely between the scores of 5 and 6.
+The final piece of data present in the dataset is not chemical data, and in fact is not even objective data. It is a ranking of quality gathered by individuals from sensory data taken from tasting the wines. This quality ranking falls on a scale of 1 to 10, with 1 being the highest and 10 being the lowest, although in practice there were only results falling between 3 and 9, with no wines having a final ranking of 1, 2 or 10. Further adding to the concentration of values in the middle of the data range is a pronounced lack of values that fall on the edges of the present quality values, with only 7 wines being scored either 3 or 9. All told, of the 2037 wines sampled, 1924 of them were given of final quality ranking of either 5, 6 or 7. This concentration of data in the middle of the possible values is reflected in the summary statistics of the entire dataset, which finds the inner-quartile range of the quality values to exist entirely between the scores of 5 and 6.
 
 The chemical data all fall on varying scales, with some chemical values numbering in the thousands, while others are distinguished by hunderdths of a decimal. The chemical values all seem to represent an acceptable spread of values, with the exception of the density, which returns a maximum value of over 100 despite a mean of barely over 1, so that value will be treated as either an error or an extreme outlier and will be removed from the dataset.
 
@@ -61,8 +55,10 @@ wine_df = wine_df[remove_extra_decimals]
 
 Upon removing the offending data and reclassifying the column as float values, the data loaded correctly into our database and also was able to be scaled and prepared for machine learning.
 
-## TECHNOLOGIES
+![image](https://user-images.githubusercontent.com/14171474/236974667-99a8d14e-c829-4659-a1d9-a2ee48ecb3ce.png)
 
+## TECHNOLOGIES - LANGUAGES - TOOLS - ALGORITHMS
+Confusion Matrix, Decision Tree Classifier, Github Pages, Jupyter Notebook, Linear Regression, Matplotlib, Microsoft Powerpoint, Numby, Pandas, PostgreSQL, Random Forest Classifier, Scatter Plots, SKLearn, Standard Scaler, Tableau, Visual Studio Code
 
 ** Note: The data used for wine region and wine color is "dummy" data.  This was gathered and randomly distributed throughout the original data to provide identifiers for the individual data points beyond the index, but do not have any real-life signifcance.
 
