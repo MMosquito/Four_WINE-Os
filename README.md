@@ -61,6 +61,9 @@ wine_df = wine_df[remove_extra_decimals]
 
 Upon removing the offending data and reclassifying the column as float values, the data loaded correctly into our database and also was able to be scaled and prepared for machine learning.
 
+## TECHNOLOGIES
+
+
 ** Note: The data used for wine region and wine color is "dummy" data.  This was gathered and randomly distributed throughout the original data to provide identifiers for the individual data points beyond the index, but do not have any real-life signifcance.
 
 REGION MAP:
