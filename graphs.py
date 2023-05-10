@@ -6,7 +6,7 @@ df = pd.read_csv("Wine_RegionColor.csv")
 #histogram for quality column
 hist = px.histogram(df, x='quality')
 
-hist.write_html("histogram.html")
+hist.write_html("docs/histogram.html")
 
 
 
