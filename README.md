@@ -57,6 +57,10 @@ Upon removing the offending data and reclassifying the column as float values, t
 
 ![image](https://user-images.githubusercontent.com/14171474/236974667-99a8d14e-c829-4659-a1d9-a2ee48ecb3ce.png)
 
+## DATA EXPLORATION
+
+## ANALYSIS
+
 ## TECHNOLOGIES - LANGUAGES - TOOLS - ALGORITHMS
 Confusion Matrix, Decision Tree Classifier, Github Pages, Jupyter Notebook, Linear Regression, Matplotlib, Microsoft Powerpoint, Numby, Pandas, PostgreSQL, Random Forest Classifier, Scatter Plots, SKLearn, Standard Scaler, Tableau, Visual Studio Code
 
