@@ -95,6 +95,10 @@ Since the primary objective of our analysis is to discover the relationship betw
 
 For most properties, there is no correlation to quality. There is a low negative correlation for "chlorides" (-0.3) and "total sulfur dioxide" (-0.18).
 
+## DASHBOARD
+
+https://public.tableau.com/app/profile/melissa.mosquito/viz/Four-Wine-OsGroupProject/PortugalWineDashboard
+
 REGION MAP:
 
 
