@@ -106,15 +106,21 @@ The type of model this dataset would require would perform categorical classific
 
 These models saw limited success, with the highest accuracy score only reaching around 60%, and several of the models seeing dramatically worse performance.
 
-!('RCF.png')
+![image](https://github.com/MMosquito/Four_WINE-Os/assets/119082569/130b1893-612a-4415-af49-4f34cd698d46)
 
-!('ECF.png')
+![image](https://github.com/MMosquito/Four_WINE-Os/assets/119082569/88f55a1c-5d82-4ba9-b652-ab2b2abebb0a)
 
-!('SVM.png')
+![image](https://github.com/MMosquito/Four_WINE-Os/assets/119082569/0cadab40-d70a-43ad-bc3d-339e18690b84)
+
+The most successful model was an extra forest classifier model with 50 estimators, which returned the following confusion matrix and classfication report:
+
+![image](https://github.com/MMosquito/Four_WINE-Os/assets/119082569/80498596-42a4-401b-98d2-da08818d0fcd)
+
+![image](https://github.com/MMosquito/Four_WINE-Os/assets/119082569/720ce8d7-2024-4662-a915-dc245e58dfbf)
 
 A neural network model using the cateogrical cross-entropy loss estimator is a work in progress, it has returned 51% accuracy but is still a work in progress.
 
-!('neural_network_result.png')
+![image](https://github.com/MMosquito/Four_WINE-Os/assets/119082569/422c9195-5363-4a43-8fe2-cb7e0481b978)
 
 Further work on improving these models will focus on eliminating features that are negatively impacting model performance and dialing in the model structure.
 
@@ -132,6 +138,14 @@ REGION MAP:
 * graphed the number of wines for each quality rating
 * did a groupby on the quality column and searched for vairables that had a noticable coorelation to quality
 
+## Files present in repository
+
+-'ERD.png' is an image of the entity relationship diagram created to lay out the structure of our database.
+-'Updated_wine_queries.sql' is a series of queries that convert the tables in the database into a single table using joins
+-'preprocessed_wine_data.csv' is the data after it has been processed for outlier data and faulty data points
+-'wine_data_preprocessing.ipynb' is the code for the preprocessing of the data
+-'wine_queries.sql' is the initial set of queries for database management before editing
+-'wine_schema.sql' is the set of queries that create the tables in the database for the data to be loaded into
 
 CITATIONS: 
 - "Portugal Wine Data"; Marilia Prata; https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadswinecsv?resource=download. 2021
