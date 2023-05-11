@@ -66,6 +66,35 @@ Confusion Matrix, Decision Tree Classifier, Github Pages, Jupyter Notebook, Line
 
 ** Note: The data used for wine region and wine color is "dummy" data.  This was gathered and randomly distributed throughout the original data to provide identifiers for the individual data points beyond the index, but do not have any real-life signifcance.
 
+## Data Analysis
+We created a histogram that displays the number of wines for each quality rating to give an overview of the data we are working with.
+```
+hist = px.histogram(df, x='quality')
+```
+Quality Distribution
+* 1: 0
+* 2: 0
+* 3: 3
+* 4: 40
+* 5: 589
+* 6: 944
+* 7: 391
+* 8: 66
+* 9: 4
+* 10: 0
+
+There are zero wines that have a quality of 1, 2, or 10. A vast majority of the wines got a rating of 5, 6, or 7.
+
+Then we grouped the data by quality to find the average property value for each quality rating.
+```
+df.groupby(by=["quality"], as_index=False).mean()
+```
+Since the primary objective of our analysis is to discover the relationship between wine properties and quality rating, we performed a linear regression analysis on each property vs quality rating (single_variable_linear_regression.ipynb).
+
+<img width="134" alt="image" src="https://github.com/MMosquito/Four_WINE-Os/assets/79022140/3ef8d8be-b450-4673-91fd-d9a1b82531d9">
+
+For most properties, there is no correlation to quality. There is a low negative correlation for "chlorides" (-0.3) and "total sulfur dioxide" (-0.18).
+
 REGION MAP:
 
 
