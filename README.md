@@ -1,4 +1,4 @@
-# Four-WINE-Os
+# FOUR-WINE-Os
 
 ## WHY:  Quality of Portugal Wines!  
 
