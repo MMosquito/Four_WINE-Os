@@ -1,4 +1,4 @@
-# Four_WINE-Os
+# Four-WINE-Os
 
 ## WHY:  Quality of Portugal Wines!  
 
@@ -60,10 +60,9 @@ The final piece of data present in the dataset is a ranking of quality gathered 
 
 The chemical data all fall on varying scales, with some chemical values numbering in the thousands, while others are distinguished by hunderdths of a decimal. The chemical values all seem to represent an acceptable spread of values, with the exception of the density, which returns a maximum value of over 100 despite a mean of barely over 1, so that value will be treated as either an error or an extreme outlier and will be removed from the dataset.
 
-## ANALYSIS
+## DATA ANALYSIS
 
 
-## Data Analysis
 
 We created a histogram that displays the number of wines for each quality rating to give an overview of the data we are working with.
 ```
@@ -131,12 +130,12 @@ REGION MAP:
 ![WineMapofPortugal](https://user-images.githubusercontent.com/14171474/234731441-6d4f7538-121a-4f90-848f-42fa3d7b3226.png)
 
 
-## "Graphs" branch
+## "GRAPHS" BRANCH
 
 * graphed the number of wines for each quality rating
 * did a groupby on the quality column and searched for vairables that had a noticable coorelation to quality
 
-## Files present in repository
+## FILES PRESENT IN REPOSITORY
 
 -'ERD.png' is an image of the entity relationship diagram created to lay out the structure of our database.
 -'Updated_wine_queries.sql' is a series of queries that convert the tables in the database into a single table using joins
@@ -155,4 +154,4 @@ Confusion Matrix, Decision Tree Classifier, Github Pages, Jupyter Notebook, Line
 - "The WInes of Portugal (Organized by Region)"; Madeline Puckette; https://winefolly.com/deep-dive/what-wines-to-drink-from-portugal-by-region/winefully.com. 2023
 - "ERD.png"; https://app.quickdatabasediagrams.com/. 2023
 
-#### Note: The data used for wine region and wine color is "dummy" data.  This was gathered and randomly distributed throughout the original data to provide identifiers for the individual data points beyond the index, but do not have any real-life signifcance. The data in this project is gathered for training purposes only.   
+#### NOTE: The data used for wine region and wine color is "dummy" data.  This was gathered and randomly distributed throughout the original data to provide identifiers for the individual data points beyond the index, but do not have any real-life signifcance. The data in this project is gathered for training purposes only.   
