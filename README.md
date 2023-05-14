@@ -9,6 +9,7 @@ The Four-WINE-Os are here to help wine enthusiasts gather more information on Po
 Let’s help you discover what is determined the best quality of Portugal wine based on chemical properties! 
 
 ## QUESTIONS
+
   * Which of these variables, if any, have the largest correlation between their value and the quality of the wine?
   * Can machine learning be used to predict the qualty of a wine based upon an analysis of it's various chemical properties?
 
@@ -61,10 +62,9 @@ The chemical data all fall on varying scales, with some chemical values numberin
 
 ## ANALYSIS
 
-## TECHNOLOGIES - LANGUAGES - TOOLS - ALGORITHMS
-Confusion Matrix, Decision Tree Classifier, Github Pages, Jupyter Notebook, Linear Regression, Matplotlib, Microsoft Powerpoint, Numby, Pandas, PostgreSQL, Random Forest Classifier, Scatter Plots, SKLearn, Standard Scaler, Tableau, Visual Studio Code
 
 ## Data Analysis
+
 We created a histogram that displays the number of wines for each quality rating to give an overview of the data we are working with.
 ```
 hist = px.histogram(df, x='quality')
@@ -132,6 +132,7 @@ REGION MAP:
 
 
 ## "Graphs" branch
+
 * graphed the number of wines for each quality rating
 * did a groupby on the quality column and searched for vairables that had a noticable coorelation to quality
 
@@ -144,7 +145,12 @@ REGION MAP:
 -'wine_queries.sql' is the initial set of queries for database management before editing
 -'wine_schema.sql' is the set of queries that create the tables in the database for the data to be loaded into
 
-## CITATIONS: 
+## TECHNOLOGIES - LANGUAGES - TOOLS - ALGORITHMS
+
+Confusion Matrix, Decision Tree Classifier, Github Pages, Jupyter Notebook, Linear Regression, Matplotlib, Microsoft Powerpoint, Numby, Pandas, PostgreSQL, Random Forest Classifier, Scatter Plots, SKLearn, Standard Scaler, Tableau, Visual Studio Code
+
+## CITATIONS
+
 - "Portugal Wine Data"; Marilia Prata; https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadswinecsv?resource=download. 2021
 - "The WInes of Portugal (Organized by Region)"; Madeline Puckette; https://winefolly.com/deep-dive/what-wines-to-drink-from-portugal-by-region/winefully.com. 2023
 - "ERD.png"; https://app.quickdatabasediagrams.com/. 2023
