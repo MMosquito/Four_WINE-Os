@@ -4,7 +4,7 @@
 
 How does one determine the best quality of wine?  Is it about taste? Color? What region is it from?  How about chemical properties?  
 
-The Four-WINE-Os are here to help wine enthusiasts gather more information on Portugal wines through the exploration of over 2000 types of wine from over 13 different regions.  We will show the quality rating score of 3 to 9 (9 being the highest) of Portugal wines based on several different factors to include sugar, sulphate, pH, sulfur dioxide, citric acid, and more. 
+The Four-WINE-Os are here to help wine enthusiasts gather more information on Portugal wines through the exploration of over 2000 types of wine from over 13 different regions.  We will show the quality rating score of 1 to 10 (1 being the highest) of Portugal wines based on several different factors to include sugar, sulphate, pH, sulfur dioxide, citric acid, and more. 
 
 Let’s help you discover what is determined the best quality of Portugal wine based on chemical properties! 
 
@@ -39,7 +39,7 @@ The data is made up of both chemical and sensory data for 2037 unique wines, all
  
  -Alcohol
 
-The data is mostly clean already and saw few complication when preparing it for loading into an SQL database, excepting the alcohol column. Some of the data points were strings that contained multiple decimal points and could not be converted to float values, so we opted to drop those data points. That was accomplished with the following lines of code: 
+The data is mostly clean and saw few complications when preparing it for loading into an SQL database, except the alcohol column. Some of the data points were strings that contained multiple decimal points and could not be converted to float values, so we opted to drop those specific data points. That was accomplished with the following lines of code: 
 
 ```
 check_decimals = lambda x: str(x).count('.') <= 1
@@ -55,7 +55,7 @@ Upon removing the offending data and reclassifying the column as float values, t
 
 ## DATA EXPLORATION
 
-The final piece of data present in the dataset is a ranking of quality gathered by individuals from sensory data taken from tasting the wines. This quality ranking falls on a scale of 1 to 10, with 1 being the highest and 10 being the lowest, although there were only actual results  between 3 and 9. The data is heavily weighted towrds middle values, with 1924 of the 2037 wines sampled being given a final quality ranking of either 5, 6 or 7. This concentration of data in the middle of the possible values is reflected in the summary statistics of the entire dataset, which finds the inner-quartile range of the quality values to exist entirely between the scores of 5 and 6.
+The final piece of data present in the dataset is a ranking of quality gathered by individuals from sensory data taken from tasting the wines. This quality ranking falls on a scale of 1 to 10, with 1 being the highest and 10 being the lowest, although there were only actual results between 3 and 9. The data is heavily weighted towrds middle values, with 1924 of the 2037 wines sampled being given a final quality ranking of either 5, 6 or 7. This concentration of data in the middle of the possible values is reflected in the summary statistics of the entire dataset, which finds the inner-quartile range of the quality values to exist entirely between the scores of 5 and 6.
 
 The chemical data all fall on varying scales, with some chemical values numbering in the thousands, while others are distinguished by hunderdths of a decimal. The chemical values all seem to represent an acceptable spread of values, with the exception of the density, which returns a maximum value of over 100 despite a mean of barely over 1, so that value will be treated as either an error or an extreme outlier and will be removed from the dataset.
 
@@ -63,8 +63,6 @@ The chemical data all fall on varying scales, with some chemical values numberin
 
 ## TECHNOLOGIES - LANGUAGES - TOOLS - ALGORITHMS
 Confusion Matrix, Decision Tree Classifier, Github Pages, Jupyter Notebook, Linear Regression, Matplotlib, Microsoft Powerpoint, Numby, Pandas, PostgreSQL, Random Forest Classifier, Scatter Plots, SKLearn, Standard Scaler, Tableau, Visual Studio Code
-
-** Note: The data used for wine region and wine color is "dummy" data.  This was gathered and randomly distributed throughout the original data to provide identifiers for the individual data points beyond the index, but do not have any real-life signifcance.
 
 ## Data Analysis
 We created a histogram that displays the number of wines for each quality rating to give an overview of the data we are working with.
@@ -130,7 +128,6 @@ https://public.tableau.com/app/profile/melissa.mosquito/viz/Four-Wine-OsGroupPro
 
 REGION MAP:
 
-
 ![WineMapofPortugal](https://user-images.githubusercontent.com/14171474/234731441-6d4f7538-121a-4f90-848f-42fa3d7b3226.png)
 
 
@@ -147,9 +144,9 @@ REGION MAP:
 -'wine_queries.sql' is the initial set of queries for database management before editing
 -'wine_schema.sql' is the set of queries that create the tables in the database for the data to be loaded into
 
-CITATIONS: 
+## CITATIONS: 
 - "Portugal Wine Data"; Marilia Prata; https://www.kaggle.com/datasets/mpwolke/cusersmarildownloadswinecsv?resource=download. 2021
 - "The WInes of Portugal (Organized by Region)"; Madeline Puckette; https://winefolly.com/deep-dive/what-wines-to-drink-from-portugal-by-region/winefully.com. 2023
 - "ERD.png"; https://app.quickdatabasediagrams.com/. 2023
 
-#### Disclaimer the data in this project is gathered for training purposes only.   
+#### Note: The data used for wine region and wine color is "dummy" data.  This was gathered and randomly distributed throughout the original data to provide identifiers for the individual data points beyond the index, but do not have any real-life signifcance. The data in this project is gathered for training purposes only.   
