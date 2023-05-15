@@ -1,6 +1,9 @@
 # Presentation ReadMe
 
-   * 5/8 - see "Final_Presentation_draft_v1.1.pptx"
+* 5/14 - minor changes to slides
+
+---
+* 5/8 - see "Final_Presentation_draft_v1.1.pptx"
      * created a better starter draft for everyone to view/edit
      * created 'hidden' slides that breaks down each requirement
        * this will easier to breakout each section and have one area for notes per section
