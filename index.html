@@ -3,28 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <title>Four Wine-O's</title>
+
+    <style>
+        .image-container {
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+          gap: 10px;
+        }
+        
+        .image-container img {
+          width: 100%;
+        }
+      </style>
+      <style>
+        .container {
+          display: flex;
+        }
+      </style>
 </head>
 
 <h1>Wine Count by Quality Rating</h1>
 
 <body>
 
-    <center><iframe src="./docs/histogram.html" height="400" width="600" frameborder="0"></iframe></center>
+    <div class="container">
+      <iframe src="./docs/histogram.html" height="400" width="600" frameborder="0"></iframe>
+      <img src="images/corr_df.png" alt="correlation coef">
+    </div>
 
-    <img id="image" src="Null_Image.png" />
+    <h1>Linear Regression Charts</h1>
 
-    <select id="LinearRegressionCharts">
-        <option value="images/chlorides.png">Chlorides</option>
-        <option value="images/citric_acid.png">Citric Acid</option>
-        <option value="images/density.png">Density</option>
-        <option value="images/fixed_acidity.png">Fixed Acidity</option>
-        <option value="images/free_sulfur_dioxide.png">Free Sulfur Dioxide</option>
-        <option value="images/pH.png">pH</option>
-        <option value="images/residual_sugar.png">Residual Sugar</option>
-        <option value="images/sulphates.png">Sulphates</option>
-        <option value="images/total_sulfur_dioxide.png">Total Sulfur Dioxide</option>
-        <option value="images/volatile_acidity.png">Volatile Acidity</option>
-    </select>
+    <div class="image-container">
+        <img src="images/chlorides.png" alt="Chlorides">
+        <img src="images/citric_acid.png" alt="Citric Acid">
+        <img src="images/density.png" alt="Density">
+        <img src="images/fixed_acidity.png" alt="Fixed Acidity">
+        <img src="images/free_sulfur_dioxide.png" alt="Free Sulfur Dioxide">
+        <img src="images/pH.png" alt="pH">
+        <img src="images/residual_sugar.png" alt="Residual Sugar">
+        <img src="images/sulphates.png" alt="Sulphates">
+        <img src="images/total_sulfur_dioxide.png" alt="Total Sulfur Dioxide">
+        <img src="images/volatile_acidity.png" alt="Volatile Acidity">
+    </div>
 
 </body>
 </html>
