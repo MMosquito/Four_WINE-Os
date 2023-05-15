@@ -123,7 +123,7 @@ Further work on improving these models will focus on eliminating features that a
 
 ## DASHBOARD
 
-https://public.tableau.com/app/profile/melissa.mosquito/viz/Four-Wine-OsGroupProject/PortugalWineDashboard
+(https://public.tableau.com/views/Updated_FOUR-WINE-Os/FOUR-WINE-OsDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 REGION MAP:
 
