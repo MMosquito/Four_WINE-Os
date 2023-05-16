@@ -1,8 +1,16 @@
 # Presentation ReadMe
 
+* 5/15 - see "Final_Presentation_draft_v3.0"
+    * updated with changes discussed from group meeting 5/14
+    * updated with transitions to have a more 'finalized' look
+    * updated notes in all slides as talking points during actual presentation
+
+---
+
 * 5/14 - minor changes to slides
 
 ---
+
 * 5/8 - see "Final_Presentation_draft_v1.1.pptx"
      * created a better starter draft for everyone to view/edit
      * created 'hidden' slides that breaks down each requirement
